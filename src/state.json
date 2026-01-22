@@ -1,1 +1,810 @@
-[]
+[
+  {
+    "source": "Insurance Europe News",
+    "title": "Consumer Hub updated with new examples of consumer-focused insurance practices across Europe",
+    "date": "6-1-2026",
+    "sortDate": "2026-06-01T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.insuranceeurope.eu/news/3492/consumer-hub-updated-with-new-examples-of-consumer-focused-insurance-practices-across-europe"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "TAR­GO Le­bens­ver­si­che­rung AG",
+    "date": "",
+    "sortDate": "2026-01-22T12:16:36.506Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Bekanntmachungen/21_Namensaenderung/neu/2026_01_21_targo_lebensversiccherung_ag.html;jsessionid=996163E8778D2AD58198BB9115B2AEE5.internet992?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "Hel­lo­bit: Ba­Fin warnt vor Nut­zung der Platt­form mit der Be­zeich­nung „Hel­lo­bit“",
+    "date": "",
+    "sortDate": "2026-01-22T12:16:36.506Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/neu/meldung_2026_01_21_hellobit.html;jsessionid=996163E8778D2AD58198BB9115B2AEE5.internet992?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "BB­VA Se­gu­ros S.A. de Se­gu­ros y Re­a­se­gu­ros",
+    "date": "",
+    "sortDate": "2026-01-22T12:16:36.505Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Bekanntmachungen/31_Einstellung_GB_Dienstleistungsverkehr_DE/neu/2026_01_22_bbva_seguros_sa_va.html;jsessionid=996163E8778D2AD58198BB9115B2AEE5.internet992?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "the­pri­va­te­group(.)net: Ba­Fin er­mit­telt ge­gen die Be­trei­ber der Web­si­te",
+    "date": "",
+    "sortDate": "2026-01-22T12:16:36.505Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/neu/meldung_2026_01_21_theprivategroup.html;jsessionid=996163E8778D2AD58198BB9115B2AEE5.internet992?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "Sys­tem­ri­si­ko­puf­fer Ös­ter­reich: Ba­Fin plant re­zi­pro­ke An­er­ken­nung",
+    "date": "",
+    "sortDate": "2026-01-22T12:16:36.505Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Meldung/2026/neu/meldung_2026_01_21_systemrisikopuffer_oesterreich.html;jsessionid=996163E8778D2AD58198BB9115B2AEE5.internet992?cms_expanded=true"
+  },
+  {
+    "source": "SCOR Press & News",
+    "title": "SCOR and AXA Join Forces to Launch Lloyd’s Consortium for Ecological Restoration Insurance",
+    "date": "",
+    "sortDate": "2026-01-22T12:16:34.878Z",
+    "summary": "",
+    "link": "https://www.scor.com/en/news/scor-and-axa-join-forces-launch-lloyds-consortium-ecological-restoration-insurance"
+  },
+  {
+    "source": "Howden Re News",
+    "title": "Howden Re’s Credit and Political Risk Insurance outlook at 1.1.2026",
+    "date": "22 January 2026",
+    "sortDate": "2026-01-22T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.howdenre.com/news-insights/howden-res-credit-and-political-risk-insurance-outlook-112026"
+  },
+  {
+    "source": "AXA XL Press Releases",
+    "title": "AXA XL appoints Samantha Hazlewood to strategic global client management role",
+    "date": "January 22, 2026",
+    "sortDate": "2026-01-22T12:00:00.000Z",
+    "summary": "AXA XL today announced the appointment of Samantha Hazlewood as Head of AXA Group Partnerships and Strategic Client Management for AXA XL, effective February 1st.\nIn this new role, Ms. Hazlewood will oversee...",
+    "link": "https://axaxl.com/press-releases/axa-xl-appoints-samantha-hazlewood-to-strategic-global-client-management-role"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "Iden­ti­täts­dieb­stahl: Ba­Fin warnt vor An­ge­bo­ten von der E-Mail-Adres­se in­fo[at]vcg­ma­na­ge­ment.de",
+    "date": "22.01.2026",
+    "sortDate": "2026-01-22T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/neu/meldung_2026_01_22_vcgmanagement_de.html;jsessionid=996163E8778D2AD58198BB9115B2AEE5.internet992?cms_expanded=true"
+  },
+  {
+    "source": "Howden Re News",
+    "title": "Howden Re launches its H2 2025 Cyber Threat Report: Analysis of cyber threat trends shaping the risk landscape",
+    "date": "21 January 2026",
+    "sortDate": "2026-01-21T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.howdenre.com/news-insights/howden-re-launches-its-h2-2025-cyber-threat-report-analysis-cyber-threat-trends-shaping-risk"
+  },
+  {
+    "source": "Gallagher Re News & Insights",
+    "title": "Gallagher Re Natural Catastrophe and Climate Report 2025",
+    "date": "21 January 2026",
+    "sortDate": "2026-01-21T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.ajg.com/gallagherre/news-and-insights/gallagherre-natural-catastrophe-and-climate-report-2025/"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "Ro­stock24 Li­mi­ted: Ba­Fin warnt vor der Web­si­te Ro­stock24(.)com",
+    "date": "21.01.2026",
+    "sortDate": "2026-01-21T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/neu/meldung_2026_01_21_rostock24_com.html;jsessionid=996163E8778D2AD58198BB9115B2AEE5.internet992?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "DEVK All­ge­mei­ne Ver­si­che­rungs-Ak­ti­en­ge­sell­schaft",
+    "date": "21.01.2026",
+    "sortDate": "2026-01-21T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Bekanntmachungen/08_Erweiterung_GB_Dienstleistungsverkehr/neu/2026_01_21_devk_allgemeine_versichung_ag.html;jsessionid=996163E8778D2AD58198BB9115B2AEE5.internet992?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "TAR­GO Ver­si­che­rung AG",
+    "date": "21.01.2026",
+    "sortDate": "2026-01-21T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Bekanntmachungen/21_Namensaenderung/neu/2026_01_21_targo_versicherung_ag.html;jsessionid=996163E8778D2AD58198BB9115B2AEE5.internet992?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "An­hö­rung zur An­er­ken­nung ei­nes in Ös­ter­reich an­ge­ord­ne­ten Ka­pi­tal­puf­fers für sys­te­mi­sche Ri­si­ken",
+    "date": "21.01.2026",
+    "sortDate": "2026-01-21T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Aufsichtsrecht/Verfuegung/neu/vf_20250121_systemrisikopuffer_oesterreich.html;jsessionid=996163E8778D2AD58198BB9115B2AEE5.internet992?cms_expanded=true"
+  },
+  {
+    "source": "Insurance Europe News",
+    "title": "Insurance Europe co-signs cross-sector call for EU action on Third-Party Litigation Funding (TPLF)",
+    "date": "21-1-2026",
+    "sortDate": "2026-01-21T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.insuranceeurope.eu/news/3491/insurance-europe-co-signs-cross-sector-call-for-eu-action-on-third-party-litigation-funding-tplf"
+  },
+  {
+    "source": "ABI News",
+    "title": "Insurers process record £4bn across individual and workplace health schemes",
+    "date": "21/01/2026",
+    "sortDate": "2026-01-21T00:00:00.000Z",
+    "summary": "The ABI’s latest figures reveal that health insurers processed a record £4 billion in individual and workplace private medical insurance claims in 2024 – up 13% compared to 2023 (£3.57bn).1 That’s roughly £11 million paid out every single day across the year.",
+    "link": "https://www.abi.org.uk/news/news-articles/2026/1/insurers-process-record-4bn-across-individual-and-workplace-health-schemes/"
+  },
+  {
+    "source": "Swiss Re Sigma",
+    "title": "US Property & Casualty Outlook: soft market, or soft landing?",
+    "date": "20  Jan  2026",
+    "sortDate": "2026-01-20T12:00:00.000Z",
+    "summary": "US P&C premium growth and profitability are moderating as the market enters 2026, following an exceptionally strong 2025 underpinned by solid underwriting performance.",
+    "link": "https://sigma.swissre.com/short-insights/us-property-casualty-outlook-soft-market-or-soft-landing"
+  },
+  {
+    "source": "AXA XL Press Releases",
+    "title": "AXA XL Appoints Liz Rychling as Head of Broker Relations, Large Commercial and Mid-Market",
+    "date": "January 20, 2026",
+    "sortDate": "2026-01-20T12:00:00.000Z",
+    "summary": "AXA XL has appointed Liz Rychling as Head of Broker Relations, Large Commercial and Mid-Market, in its Americas region.  Based in New York, she reports to Matt O’Malley, Chief Client and Distribution...",
+    "link": "https://axaxl.com/press-releases/axa-xl-appoints-liz-rychling-as-head-of-broker-relations-large-commercial-and-mid-market"
+  },
+  {
+    "source": "FCA News",
+    "title": "Regulators give clarity in relation to open banking pricing models",
+    "date": "20/01/2026",
+    "sortDate": "2026-01-20T00:00:00.000Z",
+    "summary": "",
+    "link": "https://www.fca.org.uk/news/statements/regulators-give-clarity-open-banking-pricing-models"
+  },
+  {
+    "source": "Swiss Re Sigma",
+    "title": "India's economic and insurance market outlook 2026-2030",
+    "date": "19  Jan  2026",
+    "sortDate": "2026-01-19T12:00:00.000Z",
+    "summary": "India's economic resilience, rooted in strong macro buffers and reform momentum place it well to navigate global uncertainty and sustain medium-term growth momentum.",
+    "link": "https://sigma.swissre.com/expertise-publications/india-economic-and-insurance-market-outlook"
+  },
+  {
+    "source": "Howden Re News",
+    "title": "Howden Re’s Cyber outlook at 1.1.2026",
+    "date": "19 January 2026",
+    "sortDate": "2026-01-19T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.howdenre.com/news-insights/howden-res-cyber-outlook-112026"
+  },
+  {
+    "source": "FCA News",
+    "title": "Applications now open for next round of FCA’s AI Live Testing",
+    "date": "19/01/2026",
+    "sortDate": "2026-01-19T00:00:00.000Z",
+    "summary": "",
+    "link": "https://www.fca.org.uk/news/news-stories/applications-open-second-cohort-ai-live-testing"
+  },
+  {
+    "source": "FCA News",
+    "title": "Tribunal upholds ban and fines for corrupt and dishonest adviser",
+    "date": "19/01/2026",
+    "sortDate": "2026-01-19T00:00:00.000Z",
+    "summary": "",
+    "link": "https://www.fca.org.uk/news/press-releases/tribunal-upholds-ban-fines-corrupt-dishonest-adviser"
+  },
+  {
+    "source": "SCOR Press & News",
+    "title": "SCOR supports major new fully integrated insurance facility for AI infrastructure",
+    "date": "January 16, 2026",
+    "sortDate": "2026-01-16T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.scor.com/en/news/scor-supports-major-new-fully-integrated-insurance-facility-ai-infrastructure"
+  },
+  {
+    "source": "Howden Re News",
+    "title": "January 1 renewals highlight evolving conditions in Iberia",
+    "date": "16 January 2026",
+    "sortDate": "2026-01-16T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.howdenre.com/news-insights/january-1-renewals-highlight-evolving-conditions-iberia"
+  },
+  {
+    "source": "FCA News",
+    "title": "Logic Investments Ltd enters special administration",
+    "date": "16/01/2026",
+    "sortDate": "2026-01-16T00:00:00.000Z",
+    "summary": "",
+    "link": "https://www.fca.org.uk/news/news-stories/logic-investments-ltd-special-administration"
+  },
+  {
+    "source": "FCA News",
+    "title": "Court approves FCA’s proposals to distribute Asset Land investor funds",
+    "date": "16/01/2026",
+    "sortDate": "2026-01-16T00:00:00.000Z",
+    "summary": "",
+    "link": "https://www.fca.org.uk/news/news-stories/court-approves-fca-proposals-distribute-asset-land-investor-funds"
+  },
+  {
+    "source": "FCA News",
+    "title": "FCA fines oil rig consultant £309,843 for insider dealing",
+    "date": "16/01/2026",
+    "sortDate": "2026-01-16T00:00:00.000Z",
+    "summary": "",
+    "link": "https://www.fca.org.uk/news/press-releases/fca-fines-oil-rig-consultant-insider-dealing"
+  },
+  {
+    "source": "Swiss Re Sigma",
+    "title": "Economic and financial market risk insights - January 2026",
+    "date": "15  Jan  2026",
+    "sortDate": "2026-01-15T12:00:00.000Z",
+    "summary": "We forecast solid global real GDP growth in 2026, with upside to our forecasts for key markets.",
+    "link": "https://sigma.swissre.com/economic-outlook/economic-and-financial-market-risk-insights-january-2026"
+  },
+  {
+    "source": "Howden Re News",
+    "title": "Howden Re Fac expands DACH team with two senior appointments in Germany",
+    "date": "15 January 2026",
+    "sortDate": "2026-01-15T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.howdenre.com/news-insights/howden-re-fac-expands-dach-team-two-senior-appointments-germany"
+  },
+  {
+    "source": "SCOR Press & News",
+    "title": "SCOR announces changes to its  Group Executive Committee",
+    "date": "January 14, 2026 — 07:30",
+    "sortDate": "2026-01-14T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.scor.com/en/press-release/scor-announces-changes-its-group-executive-committee-0"
+  },
+  {
+    "source": "Howden Re News",
+    "title": "Howden Re Inspire – meet Brian Turner",
+    "date": "14 January 2026",
+    "sortDate": "2026-01-14T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.howdenre.com/news-insights/howden-re-inspire-meet-brian-turner"
+  },
+  {
+    "source": "AXA XL Press Releases",
+    "title": "AXA XL Reinsurance promotes Julian Longbottom to Global Head of Marine & Energy, Reinsurance and Jamie Pedro to Head of Specialty, Reinsurance, Bermuda.",
+    "date": "January 14, 2026",
+    "sortDate": "2026-01-14T12:00:00.000Z",
+    "summary": "AXA XL Reinsurance has today announced it has promoted Julian Longbottom to Global Head of Marine & Energy, Reinsurance and Jamie Pedro to Head of Specialty, Reinsurance, Bermuda effective 1 January...",
+    "link": "https://axaxl.com/press-releases/axa-xl-reinsurance-promotes-julian-longbottom-and-jamie-pedro"
+  },
+  {
+    "source": "FCA News",
+    "title": "UK and EU regulators sign Memorandum of Understanding to strengthen oversight of critical third parties",
+    "date": "14/01/2026",
+    "sortDate": "2026-01-14T00:00:00.000Z",
+    "summary": "",
+    "link": "https://www.fca.org.uk/news/statements/uk-and-eu-regulators-sign-memorandum-understanding-strengthen-oversight-critical-third-parties"
+  },
+  {
+    "source": "Swiss Re Sigma",
+    "title": "AI adoption is reshaping the risk landscape",
+    "date": "13  Jan  2026",
+    "sortDate": "2026-01-13T12:00:00.000Z",
+    "summary": "The artificial intelligence (AI) boom is increasingly driving macroeconomic and insurance risks.",
+    "link": "https://sigma.swissre.com/short-insights/ai-adoption-reshaping-risk-landscape"
+  },
+  {
+    "source": "SCOR Press & News",
+    "title": "\"Make your mark. Act for Society\"",
+    "date": "January 13, 2026 — 11:28",
+    "sortDate": "2026-01-13T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.scor.com/en/news/make-your-mark-act-society"
+  },
+  {
+    "source": "Howden Re News",
+    "title": "2025 Natural catastrophe snapshot: From wildfires to global risk shifts",
+    "date": "13 January 2026",
+    "sortDate": "2026-01-13T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.howdenre.com/news-insights/2025-natural-catastrophe-snapshot-wildfires-global-risk-shifts"
+  },
+  {
+    "source": "Gallagher Re News & Insights",
+    "title": "California Wildfire: Navigating Risk and Finding Opportunity",
+    "date": "13 January 2026",
+    "sortDate": "2026-01-13T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.ajg.com/gallagherre/news-and-insights/california-wildfire-navigating-risk-and-finding-opportunity/"
+  },
+  {
+    "source": "Howden Re News",
+    "title": "Political Violence, SRCC and Geopolitical Risk: Howden Re’s View from the 1.1 Renewal",
+    "date": "12 January 2026",
+    "sortDate": "2026-01-12T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.howdenre.com/news-insights/political-violence-srcc-and-geopolitical-risk-howden-res-view-11-renewals"
+  },
+  {
+    "source": "FCA News",
+    "title": "FCA highlights good practice and risks in complex ETPs for retail investors",
+    "date": "12/01/2026",
+    "sortDate": "2026-01-12T00:00:00.000Z",
+    "summary": "",
+    "link": "https://www.fca.org.uk/news/news-stories/fca-highlights-good-practice-and-risks-complex-etps-retail-investors"
+  },
+  {
+    "source": "FCA News",
+    "title": "FCA obtains £265,523.96 confiscation order against Collateral fraudster Andrew Currie",
+    "date": "09/01/2026",
+    "sortDate": "2026-01-09T00:00:00.000Z",
+    "summary": "",
+    "link": "https://www.fca.org.uk/news/press-releases/fca-obtains-confiscation-order-against-collateral-fraudster-andrew-currie"
+  },
+  {
+    "source": "SCOR Press & News",
+    "title": "SCOR Global Reinsurance Ireland dac becomes SCOR Global Reinsurance France SA",
+    "date": "January 8, 2026 — 17:30",
+    "sortDate": "2026-01-08T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.scor.com/en/press-release/scor-global-reinsurance-ireland-dac-becomes-scor-global-reinsurance-france-sa"
+  },
+  {
+    "source": "Chubb News Releases",
+    "title": "Chubb Limited to Hold its Fourth Quarter Earnings Conference Call on Wednesday, February 4, 2026",
+    "date": "Jan 8, 2026",
+    "sortDate": "2026-01-08T12:00:00.000Z",
+    "summary": "",
+    "link": "https://news.chubb.com/2026-01-08-Chubb-Limited-to-Hold-its-Fourth-Quarter-Earnings-Conference-Call-on-Wednesday,-February-4,-2026"
+  },
+  {
+    "source": "AXA XL Press Releases",
+    "title": "AXA XL promotes Matthew Stitham to Chief Underwriting Officer, Casualty in the Americas",
+    "date": "January 8, 2026",
+    "sortDate": "2026-01-08T12:00:00.000Z",
+    "summary": "AXA XL has promoted Matthew Stitham to Chief Underwriting Officer, Casualty in the Americas.  Based in San Francisco, Mr. Stitham reports to Donna Nadeau, AXA XL’s Head of Large Commercial business. ...",
+    "link": "https://axaxl.com/press-releases/axa-xl-promotes-matthew-stitham-to-chief-underwriting-officer-casualty-in-the-americas"
+  },
+  {
+    "source": "FCA News",
+    "title": "Pension value to be put under the spotlight",
+    "date": "08/01/2026",
+    "sortDate": "2026-01-08T00:00:00.000Z",
+    "summary": "",
+    "link": "https://www.fca.org.uk/news/press-releases/pension-value-be-put-under-spotlight"
+  },
+  {
+    "source": "ABI News",
+    "title": "The ABI welcomes new Value for Money proposals",
+    "date": "08/01/2026",
+    "sortDate": "2026-01-08T00:00:00.000Z",
+    "summary": "In response to the Value for Money framework materials published by the FCA and TPR, Ben Infield, Senior Policy Adviser, Long-Term Savings at the ABI said:\n \n\n“2026 is set to be a…",
+    "link": "https://www.abi.org.uk/news/news-articles/2026/1/the-abi-welcomes-new-value-for-money-proposals/"
+  },
+  {
+    "source": "ABI News",
+    "title": "Insurance advice as red weather warning issued for South‑West England",
+    "date": "08/01/2026",
+    "sortDate": "2026-01-08T00:00:00.000Z",
+    "summary": "With a red weather warning currently in effect across parts of South-West England, the ABI is sharing important safety advice to help people stay protected during severe…",
+    "link": "https://www.abi.org.uk/news/news-articles/2026/1/insurance-advice-as-red-weather-warning-issued-for-southwest-england/"
+  },
+  {
+    "source": "Chubb News Releases",
+    "title": "Chubb Appoints Jimaan Sané to Head of Growth, Global Cyber",
+    "date": "Jan 7, 2026",
+    "sortDate": "2026-01-07T12:00:00.000Z",
+    "summary": "",
+    "link": "https://news.chubb.com/2026-01-07-Chubb-Appoints-Jimaan-Sane-to-Head-of-Growth,-Global-Cyber"
+  },
+  {
+    "source": "ABI News",
+    "title": "The ABI responds to the Government's Road Safety Strategy",
+    "date": "07/01/2026",
+    "sortDate": "2026-01-07T00:00:00.000Z",
+    "summary": "The Government has published its Road Safety Strategy, which aims to reduce the number of people killed or seriously injured on roads in Great Britain.",
+    "link": "https://www.abi.org.uk/news/news-articles/2026/1/abi-responds-road-safety-strategy/"
+  },
+  {
+    "source": "Chubb News Releases",
+    "title": "Combined Insurance Unveils New Chubb Benefits Brand",
+    "date": "Jan 5, 2026",
+    "sortDate": "2026-01-05T12:00:00.000Z",
+    "summary": "",
+    "link": "https://news.chubb.com/2026-01-05-Combined-Insurance-Unveils-New-Chubb-Benefits-Brand"
+  },
+  {
+    "source": "Howden Re News",
+    "title": "Read Howden’s 2026 renewals report Re-balancing for an outlook on the reinsurance market",
+    "date": "02 January 2026",
+    "sortDate": "2026-01-02T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.howdenre.com/news-insights/read-howdens-2026-renewals-report-re-balancing-outlook-reinsurance-market"
+  },
+  {
+    "source": "Gallagher Re News & Insights",
+    "title": "First View: Options and Opportunities",
+    "date": "2 January 2026",
+    "sortDate": "2026-01-02T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.ajg.com/gallagherre/news-and-insights/first-view-options-and-opportunities/"
+  },
+  {
+    "source": "Chubb News Releases",
+    "title": "Healthy Paws Pet Foundation at Chubb Donates $275,000 to Animal Rescue Organizations Across the United States to Support Adoption and Ongoing Care for Vulnerable Pets",
+    "date": "Dec 22, 2025",
+    "sortDate": "2025-12-22T12:00:00.000Z",
+    "summary": "",
+    "link": "https://news.chubb.com/2025-12-22-Healthy-Paws-Pet-Foundation-at-Chubb-Donates-275,000-to-Animal-Rescue-Organizations-Across-the-United-States-to-Support-Adoption-and-Ongoing-Care-for-Vulnerable-Pets"
+  },
+  {
+    "source": "Chubb News Releases",
+    "title": "Chubb Appoints John DePeters as Head of Commercial Insurance and Specialty, Overseas General Insurance",
+    "date": "Dec 22, 2025",
+    "sortDate": "2025-12-22T12:00:00.000Z",
+    "summary": "",
+    "link": "https://news.chubb.com/2025-12-22-Chubb-Appoints-John-DePeters-as-Head-of-Commercial-Insurance-and-Specialty,-Overseas-General-Insurance"
+  },
+  {
+    "source": "SCOR Press & News",
+    "title": "SCOR renews its contingent capital program",
+    "date": "December 18, 2025 — 17:40",
+    "sortDate": "2025-12-18T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.scor.com/en/press-release/scor-renews-its-contingent-capital-program"
+  },
+  {
+    "source": "AXA XL Press Releases",
+    "title": "AXA XL Appoints Jeffrey L. Loop as Head of Media Liability",
+    "date": "December 18, 2025",
+    "sortDate": "2025-12-18T12:00:00.000Z",
+    "summary": "To help its clients address rising media liability risks, AXA XL has appointed Jeffrey L. Loop as the new Head of Media Liability.  Based in Los Angeles, Mr. Loop reports to Michelle Chia, Chief Underwriting...",
+    "link": "https://axaxl.com/press-releases/axa-xl-appoints-jeffrey-l-loop-as-head-of-media-liability"
+  },
+  {
+    "source": "Insurance Europe News",
+    "title": "EU Retail Investment Strategy: A step forward, but avoiding extra complexity is key",
+    "date": "18-12-2025",
+    "sortDate": "2025-12-18T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.insuranceeurope.eu/news/3479/eu-retail-investment-strategy-a-step-forward-but-avoiding-extra-complexity-is-key"
+  },
+  {
+    "source": "SCOR Press & News",
+    "title": "SCOR’s Actuarial Awards reward outstanding research across six countries in 2025",
+    "date": "December 15, 2025 — 16:30",
+    "sortDate": "2025-12-15T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.scor.com/en/press-release/scors-actuarial-awards-reward-outstanding-research-across-six-countries-2025"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "Insurance as a Core Element of Financial Inclusion in Emerging Economies | Key messages",
+    "date": "Dec 11, 2025",
+    "sortDate": "2025-12-11T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/videos/insurance-core-element-financial-inclusion-emerging-economies-key-messages"
+  },
+  {
+    "source": "SCOR Press & News",
+    "title": "Supporting the Energy Transition through Carbon Capture and Sequestration/Storage",
+    "date": "December 9, 2025 — 12:40",
+    "sortDate": "2025-12-09T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.scor.com/en/news/supporting-energy-transition-through-carbon-capture-and-sequestrationstorage"
+  },
+  {
+    "source": "Gallagher Re News & Insights",
+    "title": "Mortgage Market Report Q4 2025",
+    "date": "4 December 2025",
+    "sortDate": "2025-12-04T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.ajg.com/gallagherre/news-and-insights/mortgage-market-report-q4-2025/"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "As medical costs top financial worries in emerging markets, insurers strive to build more affordable cover, says Geneva Association",
+    "date": "Dec 04, 2025",
+    "sortDate": "2025-12-04T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/press-releases/medical-costs-top-financial-worries-emerging-markets-insurers-strive-build-more"
+  },
+  {
+    "source": "AXA XL Press Releases",
+    "title": "AXA XL appoints Sylvain Eyraud as Country Manager, Italy",
+    "date": "November 28, 2025",
+    "sortDate": "2025-11-28T12:00:00.000Z",
+    "summary": "AXA XL today announced the appointment of Sylvain Eyraud as Country Manager, Italy, effective January 1, subject to regulatory approval. He will succeed Saverio Longo who will be leaving AXA XL to pursue...",
+    "link": "https://axaxl.com/press-releases/axa-xl-appoints-sylvain-eyraud-as-country-manager-italy"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "Gen AI in the Insurance Customer Journey | Key messages",
+    "date": "Nov 26, 2025",
+    "sortDate": "2025-11-26T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/videos/gen-ai-insurance-customer-journey-key-messages"
+  },
+  {
+    "source": "Insurance Europe News",
+    "title": "2025 Pension Survey: Europe’s pension gap persists as new survey shows four in ten still not saving",
+    "date": "25-11-2025",
+    "sortDate": "2025-11-25T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.insuranceeurope.eu/news/3473/2025-pension-survey-europe-s-pension-gap-persists-as-new-survey-shows-four-in-ten-still-not-saving"
+  },
+  {
+    "source": "AXA XL Press Releases",
+    "title": "AXA XL in France enhances its insurance solution for classic car collectors",
+    "date": "November 20, 2025",
+    "sortDate": "2025-11-20T12:00:00.000Z",
+    "summary": "AXA XL today announced it has enhanced its “Classic Cars” coverage, an insurance solution for private vehicle collectors. The solution now covers physical damages incurred while the vehicles...",
+    "link": "https://axaxl.com/press-releases/axa-xl-in-france-enhances-its-insurance-solution-for-classic-car-collectors"
+  },
+  {
+    "source": "Insurance Europe News",
+    "title": "New EU Supplementary Pensions Package: milestone for retirement resilience and investment",
+    "date": "20-11-2025",
+    "sortDate": "2025-11-20T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.insuranceeurope.eu/news/3469/new-eu-supplementary-pensions-package-milestone-for-retirement-resilience-and-investment"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "Insurance customers want both Gen AI efficiency and human empathy, finds new Geneva Association report",
+    "date": "Nov 20, 2025",
+    "sortDate": "2025-11-20T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/press-releases/insurance-customers-want-both-gen-ai-efficiency-and-human-empathy-finds-new-geneva"
+  },
+  {
+    "source": "Insurance Europe News",
+    "title": "Clearer digital rules needed to support innovation and resilience in Europe’s insurance sector",
+    "date": "19-11-2025",
+    "sortDate": "2025-11-19T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.insuranceeurope.eu/news/3468/clearer-digital-rules-needed-to-support-innovation-and-resilience-in-europe-s-insurance-sector"
+  },
+  {
+    "source": "AXA XL Press Releases",
+    "title": "AXA XL grows client relationship team with two appointments in the Americas",
+    "date": "November 18, 2025",
+    "sortDate": "2025-11-18T12:00:00.000Z",
+    "summary": "AXA XL announced the appointments of Jessemine Hayes and Brian Otto as Client Relationship Leaders, based in Dallas, TX and Kansas City, MO, respectively. \nIn their new roles, Ms. Hayes and Mr....",
+    "link": "https://axaxl.com/press-releases/axa-xl-grows-client-relationship-team-with-two-appointments-in-the-americas"
+  },
+  {
+    "source": "AXA XL Press Releases",
+    "title": "AXA XL promotes Rob Malone to US Head of Cyber",
+    "date": "November 17, 2025",
+    "sortDate": "2025-11-17T12:00:00.000Z",
+    "summary": "AXA XL has promoted Rob Malone to U.S. Head of Cyber, effective immediately. In this role, Mr. Malone will lead the company's strategic growth and operational excellence across the U.S. cyber insurance...",
+    "link": "https://axaxl.com/press-releases/axa-xl-promotes-rob-malone-to-us-head-of-cyber"
+  },
+  {
+    "source": "AXA XL Press Releases",
+    "title": "AXA XL in Switzerland launches new insurance solution for collectors of classic and premium vehicles",
+    "date": "November 17, 2025",
+    "sortDate": "2025-11-17T12:00:00.000Z",
+    "summary": "AXA XL today announced the launch of a new insurance solution for museums and private collectors of exclusive car collections in Switzerland. This bespoke, all-risk coverage protects collections valued...",
+    "link": "https://axaxl.com/press-releases/axa-xl-in-switzerland-launches-new-insurance-solution-for-collectors-of-classic-and-premium-vehicles"
+  },
+  {
+    "source": "Gallagher Re News & Insights",
+    "title": "Global InsurTech Report for Q3 2025",
+    "date": "6 November 2025",
+    "sortDate": "2025-11-06T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.ajg.com/gallagherre/news-and-insights/global-insurtech-report-q3-2025/"
+  },
+  {
+    "source": "SCOR Press & News",
+    "title": "SCOR at FIDES 2025: Driving Innovation and Sustainability in Latin America",
+    "date": "November 5, 2025 — 17:53",
+    "sortDate": "2025-11-05T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.scor.com/en/news/scor-fides-2025-driving-innovation-and-sustainability-latin-america"
+  },
+  {
+    "source": "Gallagher Re News & Insights",
+    "title": "Smooth the Spikes with Structured Solutions",
+    "date": "3 November 2025",
+    "sortDate": "2025-11-03T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.ajg.com/gallagherre/news-and-insights/smooth-the-spikes-with-structured-solutions/"
+  },
+  {
+    "source": "SCOR Press & News",
+    "title": "Third quarter 2025 results",
+    "date": "October 31, 2025 — 07:00",
+    "sortDate": "2025-10-31T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.scor.com/en/press-release/third-quarter-2025-results"
+  },
+  {
+    "source": "Insurance Europe News",
+    "title": "Proposed amendments to Solvency II rules improve conditions for investment and competitiveness",
+    "date": "30-10-2025",
+    "sortDate": "2025-10-30T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.insuranceeurope.eu/news/3464/proposed-amendments-to-solvency-ii-rules-improve-conditions-for-investment-and-competitiveness"
+  },
+  {
+    "source": "Insurance Europe News",
+    "title": "The Cake Test: A recipe for real digital simplification",
+    "date": "29-10-2025",
+    "sortDate": "2025-10-29T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.insuranceeurope.eu/news/3463/the-cake-test-a-recipe-for-real-digital-simplification"
+  },
+  {
+    "source": "SCOR Press & News",
+    "title": "SCOR is proud to be a key contributor to the IDF’s Infrastructure Resilience Development Fund (IRDF)",
+    "date": "October 28, 2025 — 14:39",
+    "sortDate": "2025-10-28T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.scor.com/en/news/scor-proud-be-key-contributor-idfs-infrastructure-resilience-development-fund-irdf"
+  },
+  {
+    "source": "Gallagher Re News & Insights",
+    "title": "APAC Market Watch 2025",
+    "date": "27 October 2025",
+    "sortDate": "2025-10-27T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.ajg.com/gallagherre/news-and-insights/apac-market-watch-2025/"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "Gen AI Risks for Businesses | Key messages",
+    "date": "Oct 17, 2025",
+    "sortDate": "2025-10-17T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/videos/gen-ai-risks-businesses-key-messages"
+  },
+  {
+    "source": "Gallagher Re News & Insights",
+    "title": "For APAC Insurers, Quality and Resilience are the Watchwords",
+    "date": "16 October 2025",
+    "sortDate": "2025-10-16T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.ajg.com/gallagherre/news-and-insights/for-apac-insurers-quality-and-resilience-are-watchwords/"
+  },
+  {
+    "source": "Gallagher Re News & Insights",
+    "title": "Gallagher Re Natural Catastrophe and Climate Report: Q3 2025",
+    "date": "15 October 2025",
+    "sortDate": "2025-10-15T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.ajg.com/gallagherre/news-and-insights/gallagher-re-natural-catastrophe-and-climate-report-q3-2025/"
+  },
+  {
+    "source": "SCOR Press & News",
+    "title": "Aktia launches SCOR’s Velogica in Finland, opening a new chapter in automated underwriting",
+    "date": "October 2, 2025 — 12:05",
+    "sortDate": "2025-10-02T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.scor.com/en/news/aktia-launches-scors-velogica-finland-opening-new-chapter-automated-underwriting"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "Nine in ten businesses show interest in insurance cover for Gen AI risks, new Geneva Association report shows",
+    "date": "Oct 02, 2025",
+    "sortDate": "2025-10-02T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/press-releases/nine-ten-businesses-show-interest-insurance-cover-gen-ai-risks-new-geneva"
+  },
+  {
+    "source": "SCOR Press & News",
+    "title": "Information regarding the redemption by SCOR SE of outstanding €63.6 million undated subordinated notes",
+    "date": "October 1, 2025 — 18:00",
+    "sortDate": "2025-10-01T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.scor.com/en/press-release/information-regarding-redemption-scor-se-outstanding-eu636-million-undated"
+  },
+  {
+    "source": "SCOR Press & News",
+    "title": "Supporting the production of lithium, a key enabler of the energy transition",
+    "date": "September 29, 2025 — 17:03",
+    "sortDate": "2025-09-29T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.scor.com/en/news/supporting-production-lithium-key-enabler-energy-transition"
+  },
+  {
+    "source": "SCOR Press & News",
+    "title": "Results of the cash tender offer on subordinated notes",
+    "date": "September 9, 2025 — 08:30",
+    "sortDate": "2025-09-09T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.scor.com/en/press-release/results-cash-tender-offer-subordinated-notes"
+  },
+  {
+    "source": "SCOR Press & News",
+    "title": "SCOR successfully places EUR 500 million subordinated notes maturing in 2055",
+    "date": "September 2, 2025 — 19:00",
+    "sortDate": "2025-09-02T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.scor.com/en/press-release/scor-successfully-places-eur-500-million-subordinated-notes-maturing-2055"
+  },
+  {
+    "source": "SCOR Press & News",
+    "title": "SCOR announces the launch of a cash tender offer and its intention to issue new subordinated notes",
+    "date": "September 2, 2025 — 08:30",
+    "sortDate": "2025-09-02T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.scor.com/en/press-release/scor-announces-launch-cash-tender-offer-and-its-intention-issue-new-subordinated"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "The Geneva Association and Global Asia Insurance Partnership to Convene in Singapore to Turn Dialogue into Action on Risk Resilience",
+    "date": "Aug 28, 2025",
+    "sortDate": "2025-08-28T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/press-releases/geneva-association-and-global-asia-insurance-partnership-convene-singapore-turn"
+  },
+  {
+    "source": "SCOR Press & News",
+    "title": "The timeline of the 2022 arbitration relating to retrocession treaties remains unchanged",
+    "date": "August 13, 2025 — 20:00",
+    "sortDate": "2025-08-13T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.scor.com/en/press-release/timeline-2022-arbitration-relating-retrocession-treaties-remains-unchanged"
+  },
+  {
+    "source": "SCOR Press & News",
+    "title": "Second quarter 2025 results",
+    "date": "July 31, 2025 — 07:00",
+    "sortDate": "2025-07-31T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.scor.com/en/press-release/second-quarter-2025-results"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "The Geneva Papers on Risk and Insurance achieves record journal impact factor of 3.3",
+    "date": "Jul 08, 2025",
+    "sortDate": "2025-07-08T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/news/geneva-papers-risk-and-insurance-achieves-record-journal-impact-factor-33"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "2025 Geneva Association Ernst Meyer Prize awarded to works that help  insurers navigate today’s complex  global risk landscape",
+    "date": "Jun 19, 2025",
+    "sortDate": "2025-06-19T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/press-releases/2025-geneva-association-ernst-meyer-prize-awarded-works-help-insurers-navigate"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "Safeguarding Home Insurance | Key messages",
+    "date": "May 16, 2025",
+    "sortDate": "2025-05-16T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/videos/safeguarding-home-insurance-key-messages"
+  },
+  {
+    "source": "Insurance Europe News",
+    "title": "Investing for Europe’s future — the insurers’ perspective",
+    "date": "3-11-2025",
+    "sortDate": "2025-03-11T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.insuranceeurope.eu/news/3466/investing-for-europe-s-future-the-insurers-perspective"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "Insurance and the Longevity Economy | Key messages",
+    "date": "Feb 19, 2025",
+    "sortDate": "2025-02-19T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/videos/insurance-and-longevity-economy-key-messages"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "Introducing Our Logo Transformation",
+    "date": "Jan 16, 2025",
+    "sortDate": "2025-01-16T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/videos/introducing-our-logo-transformation"
+  }
+]
