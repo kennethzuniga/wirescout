@@ -1,8 +1,11 @@
 name: Wirescout
 
-"on":
+on:
   schedule:
-    - cron: "*/5 * * * *"  # Run every 5 minutes
+    # Run every 5 minutes
+    # Note: Scheduled workflows can be delayed during high load periods
+    # and will be automatically disabled after 60 days of repository inactivity
+    - cron: "*/5 * * * *"
   workflow_dispatch:  # Allow manual triggers
 
 jobs:
