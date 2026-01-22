@@ -43,10 +43,10 @@ function generateEmailHTML(articles) {
   `;
 }
 
-// Send email via Outlook SMTP
+// Send email via Gmail SMTP
 export async function sendEmail(articles, config) {
   const transporter = nodemailer.createTransport({
-    host: config.emailHost || "smtp-mail.outlook.com",
+    host: config.emailHost || "smtp.gmail.com",
     port: config.emailPort || 587,
     secure: false,
     auth: {
