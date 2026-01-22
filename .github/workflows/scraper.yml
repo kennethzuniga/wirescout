@@ -1,9 +1,9 @@
 name: Wirescout
 
-on:
+"on":
   schedule:
-    - cron: "*/5 * * * *" # Run every 5 minutes
-  workflow_dispatch: # Allow manual triggers
+    - cron: "*/5 * * * *"  # Run every 5 minutes
+  workflow_dispatch:  # Allow manual triggers
 
 jobs:
   scrape:
@@ -38,7 +38,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           # pull latest changes to avoid conflicts
-          git pull origin main --rebase || true 
+          git pull origin main --rebase || true
           # Ensure path matches src/state.json
           git add src/state.json
           git diff --staged --quiet || git commit -m "Update state [skip ci]"
