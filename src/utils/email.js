@@ -19,9 +19,9 @@ function generateEmailHTML(articles) {
       (article) => `
     <div style="margin-bottom: 30px; border-bottom: 1px solid #eee; padding-bottom:  24px;">
       <small style="font-size: 12px; color: #999; margin-bottom: 8px;">${escapeHtml(article.source)}</small>
-      <a href="${article.link}" style="text-decoration:  none; color: #2c3e50;">
+      ${article.link ? `<a href="${article.link}" style="text-decoration:  none; color: #2c3e50;">` : ""}
         <h3 style="margin-bottom: 16px;">${escapeHtml(article.title)}</h3>
-      </a>
+      ${article.link ? `</a>` : ""}
       ${article.date ? `<small style="font-size: 12px; color: #999; margin-bottom: 8px;">${escapeHtml(article.date)}</small>` : ""}
       ${article.summary ? `<p style="color: #555;">${escapeHtml(article.summary)}</p>` : ""}
     </div>

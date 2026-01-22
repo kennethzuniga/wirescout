@@ -59,10 +59,10 @@ const extractArticles = (html, site) => {
     const fullLink = linkHref
       ? linkHref.startsWith("http")
         ? linkHref
-        : new URL(linkHref, site.url).href
+        : new URL(linkHref, site.baseUrl || site.url).href
       : null;
 
-    if (titleText && fullLink) {
+    if (titleText) {
       articles.push({
         source: site.name,
         title: titleText,

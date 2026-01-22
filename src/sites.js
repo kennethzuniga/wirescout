@@ -1,3 +1,6 @@
+// Sites to scrape for articles
+// Use baseUrl for relative links if needed (E.g., BaFin site)
+
 export const sites = [
   {
     name: "FCA News",
@@ -222,6 +225,7 @@ export const sites = [
   {
     name: "BaFin Aktuelles",
     url: "https://www.bafin.de/DE/PublikationenDaten/Aktuelles/aktuelles_node.html",
+    baseUrl: "https://www.bafin.de",
     selectors: {
       container: "tr",
       title: "td a",
