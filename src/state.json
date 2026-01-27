@@ -11,7 +11,7 @@
     "source": "BaFin Aktuelles",
     "title": "weis­ber­g­ad­vi­sors(.)inc und weis­ber­g­ad­vi­sors(.)ai: Ba­Fin warnt vor Web­si­tes",
     "date": "",
-    "sortDate": "2026-01-27T08:04:30.745Z",
+    "sortDate": "2026-01-27T12:05:27.072Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/neu/meldung_2026_01_23_weisbergadvisors.html?cms_expanded=true"
   },
@@ -19,7 +19,7 @@
     "source": "BaFin Aktuelles",
     "title": "Iden­ti­täts­dieb­stahl: Ba­Fin warnt vor An­ge­bo­ten von der E-Mail-Adres­se in­fo[at]vcg­ma­na­ge­ment.de",
     "date": "",
-    "sortDate": "2026-01-27T08:04:30.745Z",
+    "sortDate": "2026-01-27T12:05:27.072Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/neu/meldung_2026_01_22_vcgmanagement_de.html?cms_expanded=true"
   },
@@ -27,7 +27,7 @@
     "source": "BaFin Aktuelles",
     "title": "Fi­nanz­be­richt­er­stat­tung: Bun­des­amt für Jus­tiz ver­hängt Ord­nungs­geld ge­gen die Bay­Wa Ak­ti­en­ge­sell­schaft",
     "date": "",
-    "sortDate": "2026-01-27T08:04:30.744Z",
+    "sortDate": "2026-01-27T12:05:27.071Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Massnahmen/40c_neu_124_WpHG/neu/meldung_2026_01_23_baywa_ag_2.html?cms_expanded=true"
   },
@@ -35,7 +35,7 @@
     "source": "BaFin Aktuelles",
     "title": "Ge­schäfts­lei­ter: Ba­Fin ver­warnt Ge­schäfts­lei­ter",
     "date": "",
-    "sortDate": "2026-01-27T08:04:30.744Z",
+    "sortDate": "2026-01-27T12:05:27.071Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Massnahmen/60b_KWG_84_WpIG_und_57_GwG_anonym/neu/meldung_2026_01_23_geldbusse.html?cms_expanded=true"
   },
@@ -43,7 +43,7 @@
     "source": "BaFin Aktuelles",
     "title": "Be­trug: Ba­Fin warnt vor an­geb­li­cher Auf­sichts­be­hör­de",
     "date": "",
-    "sortDate": "2026-01-27T08:04:30.744Z",
+    "sortDate": "2026-01-27T12:05:27.071Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/weitere/2026/neu/meldung_2026_01_23_aufsichtsbehoerde_ete.html?cms_expanded=true"
   },
@@ -51,9 +51,25 @@
     "source": "SCOR Press & News",
     "title": "SCOR and AXA Join Forces to Launch Lloyd’s Consortium for Ecological Restoration Insurance",
     "date": "",
-    "sortDate": "2026-01-27T08:04:28.205Z",
+    "sortDate": "2026-01-27T12:05:15.856Z",
     "summary": "",
     "link": "https://www.scor.com/en/news/scor-and-axa-join-forces-launch-lloyds-consortium-ecological-restoration-insurance"
+  },
+  {
+    "source": "FCA News",
+    "title": "Mills Review to consider how AI will reshape retail financial services",
+    "date": "27/01/2026",
+    "sortDate": "2026-01-27T00:00:00.000Z",
+    "summary": "",
+    "link": "https://www.fca.org.uk/news/press-releases/mills-review-consider-how-ai-will-reshape-retail-financial-services"
+  },
+  {
+    "source": "FCA News",
+    "title": "Guavapay Limited enters compulsory liquidation",
+    "date": "27/01/2026",
+    "sortDate": "2026-01-27T00:00:00.000Z",
+    "summary": "",
+    "link": "https://www.fca.org.uk/news/news-stories/guavapay-limited-enters-compulsory-liquidation"
   },
   {
     "source": "Howden Re News",
@@ -296,22 +312,6 @@
     "link": "https://www.fca.org.uk/news/news-stories/logic-investments-ltd-special-administration"
   },
   {
-    "source": "FCA News",
-    "title": "Court approves FCA’s proposals to distribute Asset Land investor funds",
-    "date": "16/01/2026",
-    "sortDate": "2026-01-16T00:00:00.000Z",
-    "summary": "",
-    "link": "https://www.fca.org.uk/news/news-stories/court-approves-fca-proposals-distribute-asset-land-investor-funds"
-  },
-  {
-    "source": "FCA News",
-    "title": "FCA fines oil rig consultant £309,843 for insider dealing",
-    "date": "16/01/2026",
-    "sortDate": "2026-01-16T00:00:00.000Z",
-    "summary": "",
-    "link": "https://www.fca.org.uk/news/press-releases/fca-fines-oil-rig-consultant-insider-dealing"
-  },
-  {
     "source": "Swiss Re Sigma",
     "title": "Economic and financial market risk insights - January 2026",
     "date": "15  Jan  2026",
@@ -496,6 +496,14 @@
     "link": "https://www.scor.com/en/press-release/scors-actuarial-awards-reward-outstanding-research-across-six-countries-2025"
   },
   {
+    "source": "Geneva Association News",
+    "title": "Insurance as a Core Element of Financial Inclusion in Emerging Economies | Key messages",
+    "date": "Dec 11, 2025",
+    "sortDate": "2025-12-11T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/videos/insurance-core-element-financial-inclusion-emerging-economies-key-messages"
+  },
+  {
     "source": "SCOR Press & News",
     "title": "Supporting the Energy Transition through Carbon Capture and Sequestration/Storage",
     "date": "December 9, 2025 — 12:40",
@@ -512,12 +520,28 @@
     "link": "https://www.ajg.com/gallagherre/news-and-insights/mortgage-market-report-q4-2025/"
   },
   {
+    "source": "Geneva Association News",
+    "title": "As medical costs top financial worries in emerging markets, insurers strive to build more affordable cover, says Geneva Association",
+    "date": "Dec 04, 2025",
+    "sortDate": "2025-12-04T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/press-releases/medical-costs-top-financial-worries-emerging-markets-insurers-strive-build-more"
+  },
+  {
     "source": "AXA XL Press Releases",
     "title": "AXA XL appoints Sylvain Eyraud as Country Manager, Italy",
     "date": "November 28, 2025",
     "sortDate": "2025-11-28T12:00:00.000Z",
     "summary": "AXA XL today announced the appointment of Sylvain Eyraud as Country Manager, Italy, effective January 1, subject to regulatory approval. He will succeed Saverio Longo who will be leaving AXA XL to pursue...",
     "link": "https://axaxl.com/press-releases/axa-xl-appoints-sylvain-eyraud-as-country-manager-italy"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "Gen AI in the Insurance Customer Journey | Key messages",
+    "date": "Nov 26, 2025",
+    "sortDate": "2025-11-26T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/videos/gen-ai-insurance-customer-journey-key-messages"
   },
   {
     "source": "Insurance Europe News",
@@ -542,6 +566,14 @@
     "sortDate": "2025-11-20T12:00:00.000Z",
     "summary": "",
     "link": "https://www.insuranceeurope.eu/news/3469/new-eu-supplementary-pensions-package-milestone-for-retirement-resilience-and-investment"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "Insurance customers want both Gen AI efficiency and human empathy, finds new Geneva Association report",
+    "date": "Nov 20, 2025",
+    "sortDate": "2025-11-20T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/press-releases/insurance-customers-want-both-gen-ai-efficiency-and-human-empathy-finds-new-geneva"
   },
   {
     "source": "Insurance Europe News",
@@ -624,6 +656,14 @@
     "link": "https://www.ajg.com/gallagherre/news-and-insights/apac-market-watch-2025/"
   },
   {
+    "source": "Geneva Association News",
+    "title": "Gen AI Risks for Businesses | Key messages",
+    "date": "Oct 17, 2025",
+    "sortDate": "2025-10-17T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/videos/gen-ai-risks-businesses-key-messages"
+  },
+  {
     "source": "Gallagher Re News & Insights",
     "title": "For APAC Insurers, Quality and Resilience are the Watchwords",
     "date": "16 October 2025",
@@ -646,6 +686,14 @@
     "sortDate": "2025-10-02T12:00:00.000Z",
     "summary": "",
     "link": "https://www.scor.com/en/news/aktia-launches-scors-velogica-finland-opening-new-chapter-automated-underwriting"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "Nine in ten businesses show interest in insurance cover for Gen AI risks, new Geneva Association report shows",
+    "date": "Oct 02, 2025",
+    "sortDate": "2025-10-02T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/press-releases/nine-ten-businesses-show-interest-insurance-cover-gen-ai-risks-new-geneva"
   },
   {
     "source": "SCOR Press & News",
@@ -688,6 +736,14 @@
     "link": "https://www.scor.com/en/press-release/scor-announces-launch-cash-tender-offer-and-its-intention-issue-new-subordinated"
   },
   {
+    "source": "Geneva Association News",
+    "title": "The Geneva Association and Global Asia Insurance Partnership to Convene in Singapore to Turn Dialogue into Action on Risk Resilience",
+    "date": "Aug 28, 2025",
+    "sortDate": "2025-08-28T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/press-releases/geneva-association-and-global-asia-insurance-partnership-convene-singapore-turn"
+  },
+  {
     "source": "SCOR Press & News",
     "title": "The timeline of the 2022 arbitration relating to retrocession treaties remains unchanged",
     "date": "August 13, 2025 — 20:00",
@@ -704,11 +760,51 @@
     "link": "https://www.scor.com/en/press-release/second-quarter-2025-results"
   },
   {
+    "source": "Geneva Association News",
+    "title": "The Geneva Papers on Risk and Insurance achieves record journal impact factor of 3.3",
+    "date": "Jul 08, 2025",
+    "sortDate": "2025-07-08T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/news/geneva-papers-risk-and-insurance-achieves-record-journal-impact-factor-33"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "2025 Geneva Association Ernst Meyer Prize awarded to works that help  insurers navigate today’s complex  global risk landscape",
+    "date": "Jun 19, 2025",
+    "sortDate": "2025-06-19T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/press-releases/2025-geneva-association-ernst-meyer-prize-awarded-works-help-insurers-navigate"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "Safeguarding Home Insurance | Key messages",
+    "date": "May 16, 2025",
+    "sortDate": "2025-05-16T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/videos/safeguarding-home-insurance-key-messages"
+  },
+  {
     "source": "Insurance Europe News",
     "title": "Investing for Europe’s future — the insurers’ perspective",
     "date": "3-11-2025",
     "sortDate": "2025-03-11T12:00:00.000Z",
     "summary": "",
     "link": "https://www.insuranceeurope.eu/news/3466/investing-for-europe-s-future-the-insurers-perspective"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "Insurance and the Longevity Economy | Key messages",
+    "date": "Feb 19, 2025",
+    "sortDate": "2025-02-19T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/videos/insurance-and-longevity-economy-key-messages"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "Introducing Our Logo Transformation",
+    "date": "Jan 16, 2025",
+    "sortDate": "2025-01-16T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/videos/introducing-our-logo-transformation"
   }
 ]
