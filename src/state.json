@@ -8,10 +8,50 @@
     "link": "https://www.insuranceeurope.eu/news/3492/consumer-hub-updated-with-new-examples-of-consumer-focused-insurance-practices-across-europe"
   },
   {
+    "source": "BaFin Aktuelles",
+    "title": "Ge­schäfts­lei­ter: Ba­Fin ver­warnt Ge­schäfts­lei­ter",
+    "date": "",
+    "sortDate": "2026-01-28T00:11:40.091Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Massnahmen/60b_KWG_84_WpIG_und_57_GwG_anonym/neu/meldung_2026_01_23_geldbusse.html?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "Be­trug: Ba­Fin warnt vor an­geb­li­cher Auf­sichts­be­hör­de",
+    "date": "",
+    "sortDate": "2026-01-28T00:11:40.091Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/weitere/2026/neu/meldung_2026_01_23_aufsichtsbehoerde_ete.html?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "weis­ber­g­ad­vi­sors(.)inc und weis­ber­g­ad­vi­sors(.)ai: Ba­Fin warnt vor Web­si­tes",
+    "date": "",
+    "sortDate": "2026-01-28T00:11:40.091Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/neu/meldung_2026_01_23_weisbergadvisors.html?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "Iden­ti­täts­dieb­stahl: Ba­Fin warnt vor An­ge­bo­ten von der E-Mail-Adres­se in­fo[at]vcg­ma­na­ge­ment.de",
+    "date": "",
+    "sortDate": "2026-01-28T00:11:40.091Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/neu/meldung_2026_01_22_vcgmanagement_de.html?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "Fi­nanz­be­richt­er­stat­tung: Bun­des­amt für Jus­tiz ver­hängt Ord­nungs­geld ge­gen die Bay­Wa Ak­ti­en­ge­sell­schaft",
+    "date": "",
+    "sortDate": "2026-01-28T00:11:40.090Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Massnahmen/40c_neu_124_WpHG/neu/meldung_2026_01_23_baywa_ag_2.html?cms_expanded=true"
+  },
+  {
     "source": "SCOR Press & News",
     "title": "SCOR and AXA Join Forces to Launch Lloyd’s Consortium for Ecological Restoration Insurance",
     "date": "",
-    "sortDate": "2026-01-27T20:03:26.732Z",
+    "sortDate": "2026-01-28T00:11:38.180Z",
     "summary": "",
     "link": "https://www.scor.com/en/news/scor-and-axa-join-forces-launch-lloyds-consortium-ecological-restoration-insurance"
   },
@@ -48,6 +88,14 @@
     "link": "https://www.howdenre.com/news-insights/howden-res-aviation-outlook-112026"
   },
   {
+    "source": "BaFin Aktuelles",
+    "title": "Ba­Fin klärt auf: An­la­ge­be­trug über Mes­sen­ger-Diens­te Whats­App und Te­le­gram",
+    "date": "26.01.2026",
+    "sortDate": "2026-01-26T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Meldung/2026/neu/meldung_2026_01_26_bafin_klaert_auf_anlagebetrug_messenger.html?cms_expanded=true"
+  },
+  {
     "source": "Insurance Europe News",
     "title": "New safety updates: E‑Scooter rules revised in Bulgaria, Italy and Finland",
     "date": "26-1-2026",
@@ -78,6 +126,30 @@
     "sortDate": "2026-01-23T12:00:00.000Z",
     "summary": "",
     "link": "https://www.howdenre.com/news-insights/german-reinsurance-market-sees-more-measured-pricing-shifts"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "Fi­nanz­be­richt­er­stat­tung: Bun­des­amt für Jus­tiz ver­hängt Ord­nungs­geld ge­gen die Bay­Wa Ak­ti­en­ge­sell­schaft",
+    "date": "23.01.2026",
+    "sortDate": "2026-01-23T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Massnahmen/40c_neu_124_WpHG/neu/meldung_2026_01_23_baywa_ag_1.html?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "Trus­Ty­fy Deutsch­land GmbH & Co. KG: Ba­Fin warnt vor An­ge­bo­ten",
+    "date": "23.01.2026",
+    "sortDate": "2026-01-23T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/neu/meldung_2026_01_23_trustyfy.html?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "Be­trug: Ba­Fin warnt vor Fi­nan­z­auf­sicht EBR",
+    "date": "23.01.2026",
+    "sortDate": "2026-01-23T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/weitere/2026/neu/meldung_2026_01_23_finanzaufsicht_ebr.html?cms_expanded=true"
   },
   {
     "source": "FCA News",
@@ -120,6 +192,14 @@
     "link": "https://axaxl.com/press-releases/axa-xl-appoints-samantha-hazlewood-to-strategic-global-client-management-role"
   },
   {
+    "source": "BaFin Aktuelles",
+    "title": "vi­for­ex(.)com: Ba­Fin warnt vor Web­si­te",
+    "date": "22.01.2026",
+    "sortDate": "2026-01-22T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/neu/meldung_2026_01_22_viforex_com.html?cms_expanded=true"
+  },
+  {
     "source": "FCA News",
     "title": "Screening for success: Opening the gateway to growth",
     "date": "22/01/2026",
@@ -160,6 +240,14 @@
     "link": "https://www.abi.org.uk/news/news-articles/2026/1/insurers-process-record-4bn-across-individual-and-workplace-health-schemes/"
   },
   {
+    "source": "Swiss Re Sigma",
+    "title": "US Property & Casualty Outlook: soft market, or soft landing?",
+    "date": "20  Jan  2026",
+    "sortDate": "2026-01-20T12:00:00.000Z",
+    "summary": "US P&C premium growth and profitability are moderating as the market enters 2026, following an exceptionally strong 2025 underpinned by solid underwriting performance.",
+    "link": "https://sigma.swissre.com/short-insights/us-property-casualty-outlook-soft-market-or-soft-landing"
+  },
+  {
     "source": "AXA XL Press Releases",
     "title": "AXA XL Appoints Liz Rychling as Head of Broker Relations, Large Commercial and Mid-Market",
     "date": "January 20, 2026",
@@ -174,6 +262,14 @@
     "sortDate": "2026-01-20T00:00:00.000Z",
     "summary": "",
     "link": "https://www.fca.org.uk/news/statements/regulators-give-clarity-open-banking-pricing-models"
+  },
+  {
+    "source": "Swiss Re Sigma",
+    "title": "India's economic and insurance market outlook 2026-2030",
+    "date": "19  Jan  2026",
+    "sortDate": "2026-01-19T12:00:00.000Z",
+    "summary": "India's economic resilience, rooted in strong macro buffers and reform momentum place it well to navigate global uncertainty and sustain medium-term growth momentum.",
+    "link": "https://sigma.swissre.com/expertise-publications/india-economic-and-insurance-market-outlook"
   },
   {
     "source": "Howden Re News",
@@ -224,6 +320,14 @@
     "link": "https://www.fca.org.uk/news/news-stories/logic-investments-ltd-special-administration"
   },
   {
+    "source": "Swiss Re Sigma",
+    "title": "Economic and financial market risk insights - January 2026",
+    "date": "15  Jan  2026",
+    "sortDate": "2026-01-15T12:00:00.000Z",
+    "summary": "We forecast solid global real GDP growth in 2026, with upside to our forecasts for key markets.",
+    "link": "https://sigma.swissre.com/economic-outlook/economic-and-financial-market-risk-insights-january-2026"
+  },
+  {
     "source": "Howden Re News",
     "title": "Howden Re Fac expands DACH team with two senior appointments in Germany",
     "date": "15 January 2026",
@@ -254,6 +358,14 @@
     "sortDate": "2026-01-14T12:00:00.000Z",
     "summary": "AXA XL Reinsurance has today announced it has promoted Julian Longbottom to Global Head of Marine & Energy, Reinsurance and Jamie Pedro to Head of Specialty, Reinsurance, Bermuda effective 1 January...",
     "link": "https://axaxl.com/press-releases/axa-xl-reinsurance-promotes-julian-longbottom-and-jamie-pedro"
+  },
+  {
+    "source": "Swiss Re Sigma",
+    "title": "AI adoption is reshaping the risk landscape",
+    "date": "13  Jan  2026",
+    "sortDate": "2026-01-13T12:00:00.000Z",
+    "summary": "The artificial intelligence (AI) boom is increasingly driving macroeconomic and insurance risks.",
+    "link": "https://sigma.swissre.com/short-insights/ai-adoption-reshaping-risk-landscape"
   },
   {
     "source": "SCOR Press & News",
