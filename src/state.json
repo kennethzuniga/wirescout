@@ -9,17 +9,33 @@
   },
   {
     "source": "BaFin Aktuelles",
+    "title": "Nach­han­del­strans­pa­renz bei Nich­tei­gen­ka­pi­ta­l­in­stru­men­ten: Ba­Fin plant Teil­wi­der­ruf von All­ge­mein­ver­fü­gun­gen",
+    "date": "",
+    "sortDate": "2026-02-20T20:05:16.030Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Meldung/2026/meldung_2026_02_18_anhoerungen_teilwiderruf_allgemeinverfuegungen.html?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
     "title": "P&L In­vest Hol­ding AG: Ba­Fin warnt vor An­ge­bo­ten auf der Web­si­te pnl-hol­ding(.)com",
     "date": "",
-    "sortDate": "2026-02-20T16:10:09.306Z",
+    "sortDate": "2026-02-20T20:05:16.030Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_02_18_pl_invest_holding_ag.html?cms_expanded=true"
   },
   {
     "source": "BaFin Aktuelles",
+    "title": "Iden­ti­täts­miss­brauch: Ba­Fin warnt vor un­lau­te­rem Stel­len­an­ge­bot auf der Web­si­te vi­os-be­ra­tung(.)de",
+    "date": "",
+    "sortDate": "2026-02-20T20:05:16.029Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_02_20_vios-beratung_de.html?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
     "title": "Te­thys In­vest­ment Al­lian­ce: Ba­Fin warnt vor An­ge­bo­ten in Whats­App-Grup­pen und weist auf Iden­ti­täts­miss­brauch zu­las­ten der Te­thys In­vest­ment Ma­nage­ment LLC hin",
     "date": "",
-    "sortDate": "2026-02-20T16:10:09.305Z",
+    "sortDate": "2026-02-20T20:05:16.029Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_02_20_tethys_investment_alliance.html?cms_expanded=true"
   },
@@ -27,25 +43,9 @@
     "source": "BaFin Aktuelles",
     "title": "„Mo­ney­Fo­kus“ (mo­ney­fo­kus(.)com) - Ba­Fin warnt vor An­ge­bo­ten auf der Web­si­te",
     "date": "",
-    "sortDate": "2026-02-20T16:10:09.305Z",
+    "sortDate": "2026-02-20T20:05:16.029Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_02_20_moneyfokus.html?cms_expanded=true"
-  },
-  {
-    "source": "BaFin Aktuelles",
-    "title": "Nach­han­del­strans­pa­renz bei Nich­tei­gen­ka­pi­ta­l­in­stru­men­ten: Ba­Fin plant Teil­wi­der­ruf von All­ge­mein­ver­fü­gun­gen",
-    "date": "",
-    "sortDate": "2026-02-20T16:10:09.305Z",
-    "summary": "",
-    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Meldung/2026/meldung_2026_02_18_anhoerungen_teilwiderruf_allgemeinverfuegungen.html?cms_expanded=true"
-  },
-  {
-    "source": "BaFin Aktuelles",
-    "title": "Iden­ti­täts­miss­brauch: Ba­Fin warnt vor un­lau­te­rem Stel­len­an­ge­bot auf der Web­si­te vi­os-be­ra­tung(.)de",
-    "date": "",
-    "sortDate": "2026-02-20T16:10:09.304Z",
-    "summary": "",
-    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_02_20_vios-beratung_de.html?cms_expanded=true"
   },
   {
     "source": "BaFin Aktuelles",
@@ -78,6 +78,14 @@
     "sortDate": "2026-02-20T12:00:00.000Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_02_20_boamglobal.html?cms_expanded=true"
+  },
+  {
+    "source": "FCA News",
+    "title": "Influencers fined for issuing unauthorised financial promotions",
+    "date": "20/02/2026",
+    "sortDate": "2026-02-20T00:00:00.000Z",
+    "summary": "",
+    "link": "https://www.fca.org.uk/news/press-releases/influencers-fined-issuing-unauthorised-financial-promotions"
   },
   {
     "source": "Chubb News Releases",
@@ -137,7 +145,7 @@
   },
   {
     "source": "Howden Re News",
-    "title": "Howden Re Appoints Senior Talent to Enhance APAC Catastrophe Analytics Capabilities",
+    "title": "Howden Re appoints senior talent to enhance APAC Catastrophe Analytics capabilities",
     "date": "17 February 2026",
     "sortDate": "2026-02-17T12:00:00.000Z",
     "summary": "",
@@ -193,7 +201,7 @@
   },
   {
     "source": "Howden Re News",
-    "title": "Ahmed Al Mubarak on the importance of context engineering in article intelligence",
+    "title": "Ahmed Al Mubarak on the importance of context engineering in artificial intelligence",
     "date": "13 February 2026",
     "sortDate": "2026-02-13T12:00:00.000Z",
     "summary": "",
@@ -334,14 +342,6 @@
     "sortDate": "2026-02-06T00:00:00.000Z",
     "summary": "",
     "link": "https://www.fca.org.uk/news/statements/independent-assessment-support-establishment-future-entity"
-  },
-  {
-    "source": "FCA News",
-    "title": "Gemini Payments UK Ltd and Gemini Intergalactic UK Ltd exit the UK market",
-    "date": "06/02/2026",
-    "sortDate": "2026-02-06T00:00:00.000Z",
-    "summary": "",
-    "link": "https://www.fca.org.uk/news/news-stories/gemini-exit-uk-market"
   },
   {
     "source": "AXA XL Press Releases",
