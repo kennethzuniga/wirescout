@@ -9,17 +9,9 @@
   },
   {
     "source": "BaFin Aktuelles",
-    "title": "Sys­tem­ri­si­ko­puf­fer Ös­ter­reich: re­zi­pro­ke An­er­ken­nung der Ba­Fin",
-    "date": "",
-    "sortDate": "2026-03-02T08:11:07.352Z",
-    "summary": "",
-    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Meldung/2026/meldung_2026_02_25_anerkennung_kapitalpuffer_sys_risiken_at.html?cms_expanded=true"
-  },
-  {
-    "source": "BaFin Aktuelles",
     "title": "Ca­pi­ta­lis (Bank): Ba­Fin warnt vor der Web­si­te ca­pi­ta­lis­group(.)si­te",
     "date": "",
-    "sortDate": "2026-03-02T08:11:07.351Z",
+    "sortDate": "2026-03-02T12:07:48.142Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_02_27_capitalis.html?cms_expanded=true"
   },
@@ -27,7 +19,7 @@
     "source": "BaFin Aktuelles",
     "title": "Mid­vest Li­mi­ted: Ba­Fin warnt vor der Web­si­te midv-lim(.)com",
     "date": "",
-    "sortDate": "2026-03-02T08:11:07.351Z",
+    "sortDate": "2026-03-02T12:07:48.142Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_02_27_midvest_limited.html?cms_expanded=true"
   },
@@ -35,15 +27,23 @@
     "source": "BaFin Aktuelles",
     "title": "Me­taFlow Fi­nance: Ba­Fin warnt vor Jo­b­an­ge­bo­ten",
     "date": "",
-    "sortDate": "2026-03-02T08:11:07.351Z",
+    "sortDate": "2026-03-02T12:07:48.142Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_02_27_metaflow_finance.html?cms_expanded=true"
   },
   {
     "source": "BaFin Aktuelles",
+    "title": "Ba­Fin warnt vor Platt­form­rei­he „So­for­ti­ger Ai­mex/Sai­mex Tra­de“",
+    "date": "",
+    "sortDate": "2026-03-02T12:07:48.141Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_02_plattformreihe_aimex_saimex.html?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
     "title": "Ba­Fin warnt vor An­ge­bo­ten auf der Web­sei­te deut­scher-in­vest-markt(.)de",
     "date": "",
-    "sortDate": "2026-03-02T08:11:07.350Z",
+    "sortDate": "2026-03-02T12:07:48.141Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_02_27_deutscher-invest-markt_de.html?cms_expanded=true"
   },
@@ -51,9 +51,17 @@
     "source": "SCOR Press & News",
     "title": "Latest deployment of SCOR’s VClaims marks major milestone in Australia and New Zealand",
     "date": "",
-    "sortDate": "2026-03-02T08:11:05.594Z",
+    "sortDate": "2026-03-02T12:07:46.945Z",
     "summary": "",
     "link": "https://www.scor.com/en/news/latest-deployment-scors-vclaims-marks-major-milestone-australia-and-new-zealand"
+  },
+  {
+    "source": "FCA News",
+    "title": "FCA opens authorisation gateway for targeted support",
+    "date": "02/03/2026",
+    "sortDate": "2026-03-02T00:00:00.000Z",
+    "summary": "",
+    "link": "https://www.fca.org.uk/news/news-stories/fca-opens-authorisation-gateway-targeted-support"
   },
   {
     "source": "Howden Re News",
@@ -94,14 +102,6 @@
     "sortDate": "2026-02-27T12:00:00.000Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_02_27_imcpoint.html?cms_expanded=true"
-  },
-  {
-    "source": "BaFin Aktuelles",
-    "title": "All­ge­mein­ver­fü­gun­gen zur Nach­han­del­strans­pa­renz bei Nich­tei­gen­ka­pi­ta­l­in­stru­men­ten teil­wei­se wi­der­ru­fen",
-    "date": "27.02.2026",
-    "sortDate": "2026-02-27T12:00:00.000Z",
-    "summary": "",
-    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Meldung/2026/meldung_2026_02_27_teilwiderruf_allgemeinverfuegungen.html?cms_expanded=true"
   },
   {
     "source": "Insurance Europe News",
@@ -296,14 +296,6 @@
     "link": "https://axaxl.com/press-releases/axa-xl-appoints-thomas-saive-as-head-of-underwriting-motor-for-apac-and-europe"
   },
   {
-    "source": "FCA News",
-    "title": "FCA fines former chief executive of Carillion plc (in liquidation)",
-    "date": "16/02/2026",
-    "sortDate": "2026-02-16T00:00:00.000Z",
-    "summary": "",
-    "link": "https://www.fca.org.uk/news/press-releases/fca-fines-former-chief-executive-carillion-plc-liquidation"
-  },
-  {
     "source": "Swiss Re Sigma",
     "title": "Life insurance in Japan: preparing for a fiscal policy-driven cycle",
     "date": "13  Feb  2026",
@@ -454,6 +446,14 @@
     "sortDate": "2026-02-03T12:00:00.000Z",
     "summary": "",
     "link": "https://news.chubb.com/2026-02-03-Chubb-Reports-Fourth-Quarter-Net-Income-of-3-21-Billion,-Up-24-7-,-and-Core-Operating-Income-of-2-98-Billion,-Up-21-7-Consolidated-Net-Premiums-Written-of-13-1-Billion,-Up-8-9-,-with-P-C-and-Life-Insurance-Up-7-7-and-16-9-Record-P-C-Combined-Ra"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "Axo­ria AI: Ba­Fin warnt von An­ge­bo­ten auf der Web­si­te axo­ria(.)ai",
+    "date": "02.03.2026",
+    "sortDate": "2026-02-03T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_02_axoria_ai.html?cms_expanded=true"
   },
   {
     "source": "ABI News",
