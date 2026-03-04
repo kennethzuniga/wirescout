@@ -8,10 +8,26 @@
     "link": "https://www.insuranceeurope.eu/news/3492/consumer-hub-updated-with-new-examples-of-consumer-focused-insurance-practices-across-europe"
   },
   {
+    "source": "SCOR Press & News",
+    "title": "Fourth quarter 2025 results",
+    "date": "March 4, 2026 — 07:00",
+    "sortDate": "2026-03-04T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.scor.com/en/press-release/fourth-quarter-2025-results"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "Au­ren­bridge Al­lian­ce: Ba­Fin warnt vor der Web­si­te au­ren­bridge(.)com so­wie An­ge­bo­ten in Whats­App-Grup­pen",
+    "date": "",
+    "sortDate": "2026-03-04T08:07:43.729Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_03_aurenbridge_alliance.html?cms_expanded=true"
+  },
+  {
     "source": "BaFin Aktuelles",
     "title": "wat­ch­vest­ver­mitt­lung(.)com / wv-ver­mitt­lung(.)com: Ba­Fin warnt vor Web­si­tes und weist auf Iden­ti­täts­miss­brauch zu­las­ten der Wat­ch­vest GmbH hin",
     "date": "",
-    "sortDate": "2026-03-04T04:31:30.575Z",
+    "sortDate": "2026-03-04T08:07:43.729Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_03_wv_watchvestvermittlung.html?cms_expanded=true"
   },
@@ -19,7 +35,7 @@
     "source": "BaFin Aktuelles",
     "title": "exo­mar­kets(.)pro: Ba­Fin warnt vor Web­si­te und weist auf Iden­ti­täts­dieb­stäh­le hin",
     "date": "",
-    "sortDate": "2026-03-04T04:31:30.575Z",
+    "sortDate": "2026-03-04T08:07:43.729Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_03_exomarkets_pro.html?cms_expanded=true"
   },
@@ -27,7 +43,7 @@
     "source": "BaFin Aktuelles",
     "title": "Axo­ria AI: Ba­Fin warnt von An­ge­bo­ten auf der Web­si­te axo­ria(.)ai",
     "date": "",
-    "sortDate": "2026-03-04T04:31:30.575Z",
+    "sortDate": "2026-03-04T08:07:43.729Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_02_axoria_ai.html?cms_expanded=true"
   },
@@ -35,25 +51,17 @@
     "source": "BaFin Aktuelles",
     "title": "Fin­rocket­Pro: Ba­Fin warnt vor der Web­si­te fin­rocket­pro(.)com",
     "date": "",
-    "sortDate": "2026-03-04T04:31:30.574Z",
+    "sortDate": "2026-03-04T08:07:43.728Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_03_finrocketpro.html?cms_expanded=true"
   },
   {
-    "source": "BaFin Aktuelles",
-    "title": "Au­ren­bridge Al­lian­ce: Ba­Fin warnt vor der Web­si­te au­ren­bridge(.)com so­wie An­ge­bo­ten in Whats­App-Grup­pen",
-    "date": "",
-    "sortDate": "2026-03-04T04:31:30.574Z",
+    "source": "FCA News",
+    "title": "Motor finance compensation scheme to include implementation period",
+    "date": "04/03/2026",
+    "sortDate": "2026-03-04T00:00:00.000Z",
     "summary": "",
-    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_03_aurenbridge_alliance.html?cms_expanded=true"
-  },
-  {
-    "source": "SCOR Press & News",
-    "title": "Latest deployment of SCOR’s VClaims marks major milestone in Australia and New Zealand",
-    "date": "",
-    "sortDate": "2026-03-04T04:31:29.213Z",
-    "summary": "",
-    "link": "https://www.scor.com/en/news/latest-deployment-scors-vclaims-marks-major-milestone-australia-and-new-zealand"
+    "link": "https://www.fca.org.uk/news/statements/motor-finance-compensation-scheme-include-implementation-period"
   },
   {
     "source": "BaFin Aktuelles",
@@ -200,6 +208,14 @@
     "link": "https://www.fca.org.uk/news/press-releases/fca-proposes-action-close-gaps-borrowers-credit-files"
   },
   {
+    "source": "SCOR Press & News",
+    "title": "Latest deployment of SCOR’s VClaims marks major milestone in Australia and New Zealand",
+    "date": "February 24, 2026",
+    "sortDate": "2026-02-24T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.scor.com/en/news/latest-deployment-scors-vclaims-marks-major-milestone-australia-and-new-zealand"
+  },
+  {
     "source": "Chubb News Releases",
     "title": "Chubb Announces New ESIS Inc. Division President\n\nPhotos\n1",
     "date": "Feb 24, 2026",
@@ -238,14 +254,6 @@
     "sortDate": "2026-02-23T12:00:00.000Z",
     "summary": "",
     "link": "https://www.ajg.com/gallagherre/news-and-insights/crisis-or-opportunity-rebalancing-of-the-us-medical-reinsurance-market/"
-  },
-  {
-    "source": "FCA News",
-    "title": "Influencers fined for issuing unauthorised financial promotions",
-    "date": "20/02/2026",
-    "sortDate": "2026-02-20T00:00:00.000Z",
-    "summary": "",
-    "link": "https://www.fca.org.uk/news/press-releases/influencers-fined-issuing-unauthorised-financial-promotions"
   },
   {
     "source": "Chubb News Releases",
@@ -498,7 +506,7 @@
   {
     "source": "SCOR Press & News",
     "title": "SCOR strengthens cyber capabilities by partnering with Baobab Insurance",
-    "date": "January 30, 2026",
+    "date": "January 30, 2026 — 11:31",
     "sortDate": "2026-01-30T12:00:00.000Z",
     "summary": "",
     "link": "https://www.scor.com/en/news/scor-strengthens-cyber-capabilities-partnering-baobab-insurance"
@@ -774,14 +782,6 @@
     "sortDate": "2025-09-09T12:00:00.000Z",
     "summary": "",
     "link": "https://www.scor.com/en/press-release/results-cash-tender-offer-subordinated-notes"
-  },
-  {
-    "source": "SCOR Press & News",
-    "title": "SCOR successfully places EUR 500 million subordinated notes maturing in 2055",
-    "date": "September 2, 2025 — 19:00",
-    "sortDate": "2025-09-02T12:00:00.000Z",
-    "summary": "",
-    "link": "https://www.scor.com/en/press-release/scor-successfully-places-eur-500-million-subordinated-notes-maturing-2055"
   },
   {
     "source": "Geneva Association News",
