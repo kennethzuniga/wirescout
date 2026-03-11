@@ -1,6 +1,14 @@
 [
   {
     "source": "BaFin Aktuelles",
+    "title": "Raiff­ei­sen­bank-Volks­bank Fre­se­na eG: Ba­Fin setzt Buß­geld fest",
+    "date": "11.03.2026",
+    "sortDate": "2026-11-03T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Massnahmen/60b_KWG_84_WpIG_und_57_GwG/meldung_2026_03_10_raiffeisenbank-volksbank_fresena_eg.html?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
     "title": "Tra­de Re­pu­blic Bank GmbH: Ba­Fin warnt vor So­ci­al En­gi­nee­ring-Be­trug und weist auf Iden­ti­täts­miss­brauch hin",
     "date": "10.03.2026",
     "sortDate": "2026-10-03T12:00:00.000Z",
@@ -32,14 +40,6 @@
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Meldung/2026/meldung_2026_03_06_anmeldung_kapitalmarktkonferenz_2026.html?cms_expanded=true"
   },
   {
-    "source": "BaFin Aktuelles",
-    "title": "Ba­Fin warnt vor Platt­form­rei­he: „In­ves­tie­ren & Han­deln Sie 300+“",
-    "date": "06.03.2026",
-    "sortDate": "2026-06-03T12:00:00.000Z",
-    "summary": "",
-    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_06_plattformreihe_investieren_handeln_300.html?cms_expanded=true"
-  },
-  {
     "source": "Insurance Europe News",
     "title": "Consumer Hub updated with new examples of consumer-focused insurance practices across Europe",
     "date": "6-1-2026",
@@ -49,25 +49,9 @@
   },
   {
     "source": "BaFin Aktuelles",
-    "title": "Rich­mond365 Fi­nance Li­mi­ted: Ba­Fin warnt vor Web­si­te rich­mond365(.)com",
-    "date": "",
-    "sortDate": "2026-03-11T04:32:19.245Z",
-    "summary": "",
-    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_06_richmond365_com.html?cms_expanded=true"
-  },
-  {
-    "source": "BaFin Aktuelles",
-    "title": "Ba­Fin warnt vor der Web­si­te eu­ro­pe­ca­pi­tal­mar­kets(.)com",
-    "date": "",
-    "sortDate": "2026-03-11T04:32:19.244Z",
-    "summary": "",
-    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_09_europecapitalmarkets_com.html?cms_expanded=true"
-  },
-  {
-    "source": "BaFin Aktuelles",
     "title": "TGI AG: An­halts­punk­te für feh­len­den Ver­kaufspro­spekt",
     "date": "",
-    "sortDate": "2026-03-11T04:32:19.244Z",
+    "sortDate": "2026-03-11T08:09:26.506Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/weitere/2026/meldung_2026_03_06_tgi_ag.html?cms_expanded=true"
   },
@@ -75,17 +59,33 @@
     "source": "BaFin Aktuelles",
     "title": "Ba­Fin un­ter­sucht Of­fen­le­gung be­auf­sich­tig­ter Un­ter­neh­men",
     "date": "",
-    "sortDate": "2026-03-11T04:32:19.244Z",
+    "sortDate": "2026-03-11T08:09:26.506Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Meldung/2026/meldung_2026_03_06_bafin_untersuchung_offenlegung.html?cms_expanded=true"
   },
   {
     "source": "BaFin Aktuelles",
+    "title": "VR Bank Drei­eich-Of­fen­bach eG: Ba­Fin setzt Buß­geld fest",
+    "date": "",
+    "sortDate": "2026-03-11T08:09:26.505Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Massnahmen/60b_KWG_84_WpIG_und_57_GwG/meldung_2026_03_10_vr_bank_dreieich-offenbach_eg.html?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
     "title": "Iden­ti­täts­miss­brauch: Ba­Fin warnt vor der Web­si­te ali­jz(.)com, der App ali­jz­spro so­wie An­ge­bo­ten in Whats­App-Grup­pen",
     "date": "",
-    "sortDate": "2026-03-11T04:32:19.243Z",
+    "sortDate": "2026-03-11T08:09:26.505Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_10_alijz.html?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "Ba­Fin warnt vor der Web­si­te eu­ro­pe­ca­pi­tal­mar­kets(.)com",
+    "date": "",
+    "sortDate": "2026-03-11T08:09:26.505Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_09_europecapitalmarkets_com.html?cms_expanded=true"
   },
   {
     "source": "Gallagher Re News & Insights",
