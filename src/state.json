@@ -27,7 +27,7 @@
     "source": "BaFin Aktuelles",
     "title": "„Cap­man Hol­ding“ (cap­man-hol­ding(.)com): Ba­Fin warnt vor An­ge­bo­ten auf der Web­si­te",
     "date": "",
-    "sortDate": "2026-03-20T12:07:55.986Z",
+    "sortDate": "2026-03-20T16:12:32.985Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_18_capman_holding.html?cms_expanded=true"
   },
@@ -35,7 +35,7 @@
     "source": "BaFin Aktuelles",
     "title": "aap Im­plan­ta­te AG: Ba­Fin setzt Geld­bu­ße fest",
     "date": "",
-    "sortDate": "2026-03-20T12:07:55.986Z",
+    "sortDate": "2026-03-20T16:12:32.985Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Massnahmen/40c_neu_124_WpHG/meldung_2026_03_18_aap_Implantate_AG.html?cms_expanded=true"
   },
@@ -43,7 +43,7 @@
     "source": "BaFin Aktuelles",
     "title": "EuGH-Ur­teil (Rs. C-864/24): Ba­Fin be­rück­sich­tigt Ur­teil bei der Aus­le­gung von § 34 WpHG; kei­ne Än­de­rung bei der Aus­le­gung von § 30 WpÜG",
     "date": "",
-    "sortDate": "2026-03-20T12:07:55.985Z",
+    "sortDate": "2026-03-20T16:12:32.984Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Meldung/2026/meldung_2026_03_20_aufsichtsmitteilung_auswirkungen_eugh_auf_34wphg_30wpueg.html?cms_expanded=true"
   },
@@ -51,7 +51,7 @@
     "source": "BaFin Aktuelles",
     "title": "Schritt für Schritt zu mehr Fi­nanz­kom­pe­tenz: Eu­ro­päi­sche Zen­tral­bank und Part­ner ru­fen „Eu­ro­Steps Wal­king Chal­len­ge“ ins Le­ben",
     "date": "",
-    "sortDate": "2026-03-20T12:07:55.985Z",
+    "sortDate": "2026-03-20T16:12:32.984Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Meldung/2026/meldung_2026_03_19_eurosteps_walking_challenge.html?cms_expanded=true"
   },
@@ -59,9 +59,17 @@
     "source": "BaFin Aktuelles",
     "title": "MOR­RI­SON­BOOST: Ba­Fin warnt vor An­ge­bo­ten in Whats­App-Grup­pen",
     "date": "",
-    "sortDate": "2026-03-20T12:07:55.985Z",
+    "sortDate": "2026-03-20T16:12:32.984Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_19_morrisonboost.html?cms_expanded=true"
+  },
+  {
+    "source": "Chubb News Releases",
+    "title": "Chubb Details Structure of the Gulf Maritime Insurance Facility with DFC",
+    "date": "Mar 20, 2026",
+    "sortDate": "2026-03-20T12:00:00.000Z",
+    "summary": "",
+    "link": "https://news.chubb.com/2026-03-20-Chubb-Details-Structure-of-the-Gulf-Maritime-Insurance-Facility-with-DFC"
   },
   {
     "source": "BaFin Aktuelles",
@@ -70,6 +78,22 @@
     "sortDate": "2026-03-20T12:00:00.000Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Aufsichtsmitteilung/2026/aufsichtsmitteilung_02_2026_auswirkungen_eugh_auf_34wphg_30wpueg.html?cms_expanded=true"
+  },
+  {
+    "source": "FCA News",
+    "title": "FCA highlights risks when dealing with unregulated lenders",
+    "date": "20/03/2026",
+    "sortDate": "2026-03-20T00:00:00.000Z",
+    "summary": "",
+    "link": "https://www.fca.org.uk/news/statements/fca-highlights-risks-unregulated-lenders"
+  },
+  {
+    "source": "FCA News",
+    "title": "Investigation into Market Financial Solutions Limited",
+    "date": "20/03/2026",
+    "sortDate": "2026-03-20T00:00:00.000Z",
+    "summary": "",
+    "link": "https://www.fca.org.uk/news/statements/investigation-market-financial-solutions-limited"
   },
   {
     "source": "FCA News",
@@ -264,14 +288,6 @@
     "link": "https://www.fca.org.uk/news/news-stories/fca-imposes-restrictions-sendsii-ltd"
   },
   {
-    "source": "FCA News",
-    "title": "Man jailed for running illegal sale-and-rent-back scheme targeting struggling homeowners",
-    "date": "11/03/2026",
-    "sortDate": "2026-03-11T00:00:00.000Z",
-    "summary": "",
-    "link": "https://www.fca.org.uk/news/press-releases/man-jailed-illegal-sale-rent-back-scheme-struggling-homeowners"
-  },
-  {
     "source": "ABI News",
     "title": "ABI responds to FCA's Regulatory Priorities for the pensions market",
     "date": "11/03/2026",
@@ -286,14 +302,6 @@
     "sortDate": "2026-03-10T12:00:00.000Z",
     "summary": "",
     "link": "https://www.ajg.com/gallagherre/news-and-insights/global-capital-regimes-for-insurers-navigating-a-complex-landscape/"
-  },
-  {
-    "source": "FCA News",
-    "title": "Stepping back, staying safe: a joined-up approach to growth",
-    "date": "10/03/2026",
-    "sortDate": "2026-03-10T00:00:00.000Z",
-    "summary": "",
-    "link": "https://www.fca.org.uk/news/speeches/stepping-back-staying-safe-joined-approach-growth"
   },
   {
     "source": "ABI News",
@@ -417,7 +425,7 @@
   },
   {
     "source": "Gallagher Re News & Insights",
-    "title": "Crisis or opportunity? What does the rebalancing of the US medical reinsurance market mean for insurers",
+    "title": "Crisis or Opportunity? What Does the Rebalancing of the US Medical Reinsurance Market Mean for Insurers",
     "date": "23 February 2026",
     "sortDate": "2026-02-23T12:00:00.000Z",
     "summary": "",
@@ -590,14 +598,6 @@
     "sortDate": "2026-02-03T12:00:00.000Z",
     "summary": "",
     "link": "https://www.ajg.com/gallagherre/news-and-insights/north-america-surety-first-january-2026-renewal-recap-and-summary/"
-  },
-  {
-    "source": "Chubb News Releases",
-    "title": "Chubb Reports Fourth Quarter Net Income of $3.21 Billion, Up 24.7%, and Core Operating Income of $2.98 Billion, Up 21.7%; Consolidated Net Premiums Written of $13.1 Billion, Up 8.9%, with P&C and Life Insurance Up 7.7% and 16.9%; Record P&C Combined Ratio of 81.2%; Full-Year Record Net Income of $10.31 Billion, Up 11.2%, and Record Core Operating Income of $9.95 Billion, Up 8.9%; Consolidated Net Premiums Written of $54.8 Billion, Up 6.6%, with P&C and Life Insurance Up 5.4% and 15.1%; Record P&C Combined Ratio of 85.7%",
-    "date": "Feb 3, 2026",
-    "sortDate": "2026-02-03T12:00:00.000Z",
-    "summary": "",
-    "link": "https://news.chubb.com/2026-02-03-Chubb-Reports-Fourth-Quarter-Net-Income-of-3-21-Billion,-Up-24-7-,-and-Core-Operating-Income-of-2-98-Billion,-Up-21-7-Consolidated-Net-Premiums-Written-of-13-1-Billion,-Up-8-9-,-with-P-C-and-Life-Insurance-Up-7-7-and-16-9-Record-P-C-Combined-Ra"
   },
   {
     "source": "Gallagher Re News & Insights",
