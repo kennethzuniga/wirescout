@@ -25,9 +25,17 @@
   },
   {
     "source": "BaFin Aktuelles",
+    "title": "MOR­RI­SON­BOOST: Ba­Fin warnt vor An­ge­bo­ten in Whats­App-Grup­pen",
+    "date": "",
+    "sortDate": "2026-03-20T20:06:14.431Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_19_morrisonboost.html?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
     "title": "„Cap­man Hol­ding“ (cap­man-hol­ding(.)com): Ba­Fin warnt vor An­ge­bo­ten auf der Web­si­te",
     "date": "",
-    "sortDate": "2026-03-20T16:12:32.985Z",
+    "sortDate": "2026-03-20T20:06:14.431Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_18_capman_holding.html?cms_expanded=true"
   },
@@ -35,7 +43,7 @@
     "source": "BaFin Aktuelles",
     "title": "aap Im­plan­ta­te AG: Ba­Fin setzt Geld­bu­ße fest",
     "date": "",
-    "sortDate": "2026-03-20T16:12:32.985Z",
+    "sortDate": "2026-03-20T20:06:14.431Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Massnahmen/40c_neu_124_WpHG/meldung_2026_03_18_aap_Implantate_AG.html?cms_expanded=true"
   },
@@ -43,7 +51,7 @@
     "source": "BaFin Aktuelles",
     "title": "EuGH-Ur­teil (Rs. C-864/24): Ba­Fin be­rück­sich­tigt Ur­teil bei der Aus­le­gung von § 34 WpHG; kei­ne Än­de­rung bei der Aus­le­gung von § 30 WpÜG",
     "date": "",
-    "sortDate": "2026-03-20T16:12:32.984Z",
+    "sortDate": "2026-03-20T20:06:14.430Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Meldung/2026/meldung_2026_03_20_aufsichtsmitteilung_auswirkungen_eugh_auf_34wphg_30wpueg.html?cms_expanded=true"
   },
@@ -51,17 +59,17 @@
     "source": "BaFin Aktuelles",
     "title": "Schritt für Schritt zu mehr Fi­nanz­kom­pe­tenz: Eu­ro­päi­sche Zen­tral­bank und Part­ner ru­fen „Eu­ro­Steps Wal­king Chal­len­ge“ ins Le­ben",
     "date": "",
-    "sortDate": "2026-03-20T16:12:32.984Z",
+    "sortDate": "2026-03-20T20:06:14.430Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Meldung/2026/meldung_2026_03_19_eurosteps_walking_challenge.html?cms_expanded=true"
   },
   {
-    "source": "BaFin Aktuelles",
-    "title": "MOR­RI­SON­BOOST: Ba­Fin warnt vor An­ge­bo­ten in Whats­App-Grup­pen",
-    "date": "",
-    "sortDate": "2026-03-20T16:12:32.984Z",
+    "source": "SCOR Press & News",
+    "title": "Availability of Preparatory Documents",
+    "date": "March 20, 2026 — 18:00",
+    "sortDate": "2026-03-20T12:00:00.000Z",
     "summary": "",
-    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_19_morrisonboost.html?cms_expanded=true"
+    "link": "https://www.scor.com/en/press-release/combined-shareholders-meeting-tuesday-28-april-2026"
   },
   {
     "source": "Chubb News Releases",
@@ -400,14 +408,6 @@
     "link": "https://www.insuranceeurope.eu/news/3510/prevention-first-for-europe-s-climate-resilience-framework"
   },
   {
-    "source": "SCOR Press & News",
-    "title": "Latest deployment of SCOR’s VClaims marks major milestone in Australia and New Zealand",
-    "date": "February 24, 2026",
-    "sortDate": "2026-02-24T12:00:00.000Z",
-    "summary": "",
-    "link": "https://www.scor.com/en/news/latest-deployment-scors-vclaims-marks-major-milestone-australia-and-new-zealand"
-  },
-  {
     "source": "Chubb News Releases",
     "title": "Chubb Announces New ESIS Inc. Division President\n\nPhotos\n1",
     "date": "Feb 24, 2026",
@@ -422,6 +422,14 @@
     "sortDate": "2026-02-24T12:00:00.000Z",
     "summary": "AXA XL has appointed Greg Carnazza as Head of Construction Property in its Americas region.  Based in Atlanta, he reports to Jon Tellekamp, AXA XL’s Chief Underwriting Officer, Construction....",
     "link": "https://axaxl.com/press-releases/axa-xl-appoints-new-head-of-construction-property-americas"
+  },
+  {
+    "source": "SCOR Press & News",
+    "title": "Latest deployment of SCOR’s VClaims marks major milestone in Australia and New Zealand",
+    "date": "February 23, 2026 — 11:49",
+    "sortDate": "2026-02-23T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.scor.com/en/news/latest-deployment-scors-vclaims-marks-major-milestone-australia-and-new-zealand"
   },
   {
     "source": "Gallagher Re News & Insights",
@@ -790,14 +798,6 @@
     "sortDate": "2025-10-01T12:00:00.000Z",
     "summary": "",
     "link": "https://www.scor.com/en/press-release/information-regarding-redemption-scor-se-outstanding-eu636-million-undated"
-  },
-  {
-    "source": "SCOR Press & News",
-    "title": "Supporting the production of lithium, a key enabler of the energy transition",
-    "date": "September 29, 2025 — 17:03",
-    "sortDate": "2025-09-29T12:00:00.000Z",
-    "summary": "",
-    "link": "https://www.scor.com/en/news/supporting-production-lithium-key-enabler-energy-transition"
   },
   {
     "source": "Geneva Association News",
