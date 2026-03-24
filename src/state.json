@@ -25,33 +25,9 @@
   },
   {
     "source": "BaFin Aktuelles",
-    "title": "„Cap­man Hol­ding“ (cap­man-hol­ding(.)com): Ba­Fin warnt vor An­ge­bo­ten auf der Web­si­te",
-    "date": "",
-    "sortDate": "2026-03-23T20:11:18.886Z",
-    "summary": "",
-    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_18_capman_holding.html?cms_expanded=true"
-  },
-  {
-    "source": "BaFin Aktuelles",
-    "title": "a.i.s. AG: Ba­Fin setzt Geld­bu­ße fest",
-    "date": "",
-    "sortDate": "2026-03-23T20:11:18.885Z",
-    "summary": "",
-    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Massnahmen/40c_neu_124_WpHG/meldung_2026_03_23_a_i_s_AG.html?cms_expanded=true"
-  },
-  {
-    "source": "BaFin Aktuelles",
-    "title": "EuGH-Ur­teil (Rs. C-864/24): Ba­Fin be­rück­sich­tigt Ur­teil bei der Aus­le­gung von § 34 WpHG; kei­ne Än­de­rung bei der Aus­le­gung von § 30 WpÜG",
-    "date": "",
-    "sortDate": "2026-03-23T20:11:18.885Z",
-    "summary": "",
-    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Meldung/2026/meldung_2026_03_20_aufsichtsmitteilung_auswirkungen_eugh_auf_34wphg_30wpueg.html?cms_expanded=true"
-  },
-  {
-    "source": "BaFin Aktuelles",
     "title": "Schritt für Schritt zu mehr Fi­nanz­kom­pe­tenz: Eu­ro­päi­sche Zen­tral­bank und Part­ner ru­fen „Eu­ro­Steps Wal­king Chal­len­ge“ ins Le­ben",
     "date": "",
-    "sortDate": "2026-03-23T20:11:18.885Z",
+    "sortDate": "2026-03-24T00:13:17.153Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Meldung/2026/meldung_2026_03_19_eurosteps_walking_challenge.html?cms_expanded=true"
   },
@@ -59,9 +35,33 @@
     "source": "BaFin Aktuelles",
     "title": "MOR­RI­SON­BOOST: Ba­Fin warnt vor An­ge­bo­ten in Whats­App-Grup­pen",
     "date": "",
-    "sortDate": "2026-03-23T20:11:18.885Z",
+    "sortDate": "2026-03-24T00:13:17.153Z",
     "summary": "",
     "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_19_morrisonboost.html?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "„Cap­man Hol­ding“ (cap­man-hol­ding(.)com): Ba­Fin warnt vor An­ge­bo­ten auf der Web­si­te",
+    "date": "",
+    "sortDate": "2026-03-24T00:13:17.153Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_18_capman_holding.html?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "a.i.s. AG: Ba­Fin setzt Geld­bu­ße fest",
+    "date": "",
+    "sortDate": "2026-03-24T00:13:17.152Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Massnahmen/40c_neu_124_WpHG/meldung_2026_03_23_a_i_s_AG.html?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "EuGH-Ur­teil (Rs. C-864/24): Ba­Fin be­rück­sich­tigt Ur­teil bei der Aus­le­gung von § 34 WpHG; kei­ne Än­de­rung bei der Aus­le­gung von § 30 WpÜG",
+    "date": "",
+    "sortDate": "2026-03-24T00:13:17.152Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Meldung/2026/meldung_2026_03_20_aufsichtsmitteilung_auswirkungen_eugh_auf_34wphg_30wpueg.html?cms_expanded=true"
   },
   {
     "source": "Chubb News Releases",
@@ -344,6 +344,22 @@
     "link": "https://www.ajg.com/gallagherre/news-and-insights/cyber-and-property-combined-covers-buying-the-tail-more-efficiently/"
   },
   {
+    "source": "Geneva Association News",
+    "title": "Geneva Association Women in Insurance Award honours Elena Sanz, CEO Mapfre Iberia, for outstanding, people-centred leadership",
+    "date": "Mar 05, 2026",
+    "sortDate": "2026-03-05T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/press-releases/geneva-association-women-insurance-award-honours-elena-sanz-ceo-mapfre-iberia"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "Insuring Tomorrow’s Cures: Balancing the promises and practicalities of innovative medicine | Key messages",
+    "date": "Mar 05, 2026",
+    "sortDate": "2026-03-05T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/videos/insuring-tomorrows-cures-balancing-promises-and-practicalities-innovative-medicine-key"
+  },
+  {
     "source": "SCOR Press & News",
     "title": "Fourth quarter 2025 results",
     "date": "March 4, 2026 — 07:00",
@@ -358,6 +374,14 @@
     "sortDate": "2026-03-02T12:00:00.000Z",
     "summary": "",
     "link": "https://www.howdenre.com/news-insights/impact-of-an-ai-bubble-burst-scenario-on-d-and-o-insurers"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "GA Women in Insurance Award nominees",
+    "date": "Mar 02, 2026",
+    "sortDate": "2026-03-02T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/videos/ga-women-insurance-award-nominees"
   },
   {
     "source": "Howden Re News",
@@ -520,6 +544,14 @@
     "link": "https://www.ajg.com/gallagherre/news-and-insights/cbam-impacts-reinsurers-and-investors-in-european-offshore-wind-projects/"
   },
   {
+    "source": "Geneva Association News",
+    "title": "Addressing Growing Protection Gaps through Better Public-Private Insurance Programmes | Key messages",
+    "date": "Feb 11, 2026",
+    "sortDate": "2026-02-11T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/videos/addressing-growing-protection-gaps-through-better-public-private-insurance-programmes-key"
+  },
+  {
     "source": "Gallagher Re News & Insights",
     "title": "Parametric Reinsurance: From Alternative to Mainstream",
     "date": "9 February 2026",
@@ -550,6 +582,14 @@
     "sortDate": "2026-02-05T12:00:00.000Z",
     "summary": "AXA XL is excited to announce the launch of the ninth edition of the AXA Art Prize in the United States, a leading platform dedicated to emerging figurative artists. This prestigious competition invites...",
     "link": "https://axaxl.com/press-releases/the-2026-axa-art-prize-us-is-open-for-submissions"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "Public-private insurance programmes must boost risk reduction to keep disasters insurable, finds Geneva Association report",
+    "date": "Feb 05, 2026",
+    "sortDate": "2026-02-05T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/press-releases/public-private-insurance-programmes-must-boost-risk-reduction-keep-disasters"
   },
   {
     "source": "SCOR Press & News",
@@ -664,12 +704,44 @@
     "link": "https://www.scor.com/en/press-release/scors-actuarial-awards-reward-outstanding-research-across-six-countries-2025"
   },
   {
+    "source": "Geneva Association News",
+    "title": "Insurance as a Core Element of Financial Inclusion in Emerging Economies | Key messages",
+    "date": "Dec 11, 2025",
+    "sortDate": "2025-12-11T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/videos/insurance-core-element-financial-inclusion-emerging-economies-key-messages"
+  },
+  {
     "source": "SCOR Press & News",
     "title": "Supporting the Energy Transition through Carbon Capture and Sequestration/Storage",
     "date": "December 9, 2025 — 12:40",
     "sortDate": "2025-12-09T12:00:00.000Z",
     "summary": "",
     "link": "https://www.scor.com/en/news/supporting-energy-transition-through-carbon-capture-and-sequestrationstorage"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "As medical costs top financial worries in emerging markets, insurers strive to build more affordable cover, says Geneva Association",
+    "date": "Dec 04, 2025",
+    "sortDate": "2025-12-04T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/press-releases/medical-costs-top-financial-worries-emerging-markets-insurers-strive-build-more"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "Gen AI in the Insurance Customer Journey | Key messages",
+    "date": "Nov 26, 2025",
+    "sortDate": "2025-11-26T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/videos/gen-ai-insurance-customer-journey-key-messages"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "Insurance customers want both Gen AI efficiency and human empathy, finds new Geneva Association report",
+    "date": "Nov 20, 2025",
+    "sortDate": "2025-11-20T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/press-releases/insurance-customers-want-both-gen-ai-efficiency-and-human-empathy-finds-new-geneva"
   },
   {
     "source": "SCOR Press & News",
@@ -696,6 +768,14 @@
     "link": "https://www.scor.com/en/news/scor-proud-be-key-contributor-idfs-infrastructure-resilience-development-fund-irdf"
   },
   {
+    "source": "Geneva Association News",
+    "title": "Gen AI Risks for Businesses | Key messages",
+    "date": "Oct 17, 2025",
+    "sortDate": "2025-10-17T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/videos/gen-ai-risks-businesses-key-messages"
+  },
+  {
     "source": "SCOR Press & News",
     "title": "Aktia launches SCOR’s Velogica in Finland, opening a new chapter in automated underwriting",
     "date": "October 2, 2025 — 12:05",
@@ -704,11 +784,27 @@
     "link": "https://www.scor.com/en/news/aktia-launches-scors-velogica-finland-opening-new-chapter-automated-underwriting"
   },
   {
+    "source": "Geneva Association News",
+    "title": "Nine in ten businesses show interest in insurance cover for Gen AI risks, new Geneva Association report shows",
+    "date": "Oct 02, 2025",
+    "sortDate": "2025-10-02T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/press-releases/nine-ten-businesses-show-interest-insurance-cover-gen-ai-risks-new-geneva"
+  },
+  {
     "source": "SCOR Press & News",
     "title": "Information regarding the redemption by SCOR SE of outstanding €63.6 million undated subordinated notes",
     "date": "October 1, 2025 — 18:00",
     "sortDate": "2025-10-01T12:00:00.000Z",
     "summary": "",
     "link": "https://www.scor.com/en/press-release/information-regarding-redemption-scor-se-outstanding-eu636-million-undated"
+  },
+  {
+    "source": "Geneva Association News",
+    "title": "The Geneva Association and Global Asia Insurance Partnership to Convene in Singapore to Turn Dialogue into Action on Risk Resilience",
+    "date": "Aug 28, 2025",
+    "sortDate": "2025-08-28T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.genevaassociation.org/press-releases/geneva-association-and-global-asia-insurance-partnership-convene-singapore-turn"
   }
 ]
