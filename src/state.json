@@ -25,51 +25,83 @@
   },
   {
     "source": "BaFin Aktuelles",
-    "title": "a.i.s. AG: Ba­Fin setzt Geld­bu­ße fest",
-    "date": "",
-    "sortDate": "2026-03-26T12:16:12.311Z",
-    "summary": "",
-    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Massnahmen/40c_neu_124_WpHG/meldung_2026_03_23_a_i_s_AG.html;jsessionid=E3EFDC7242BF707FBD23983C9B3308C6.internet972?cms_expanded=true"
-  },
-  {
-    "source": "BaFin Aktuelles",
-    "title": "Auf­sichts­mit­tei­lung Nr. 02/2026 (WA): Aus­wir­kun­gen des EuGH-Ur­teils vom 12.02.2026 (Rs. C-864/24) auf die Aus­le­gung von § 34 WpHG und § 30 WpÜG",
-    "date": "",
-    "sortDate": "2026-03-26T12:16:12.311Z",
-    "summary": "",
-    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Aufsichtsmitteilung/2026/aufsichtsmitteilung_02_2026_auswirkungen_eugh_auf_34wphg_30wpueg.html;jsessionid=E3EFDC7242BF707FBD23983C9B3308C6.internet972?cms_expanded=true"
-  },
-  {
-    "source": "BaFin Aktuelles",
-    "title": "Ren­vio(.)icu und ren­vio(.)pro: Ba­Fin warnt vor Web­si­tes",
-    "date": "",
-    "sortDate": "2026-03-26T12:16:12.310Z",
-    "summary": "",
-    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_24_renvio.html;jsessionid=E3EFDC7242BF707FBD23983C9B3308C6.internet972?cms_expanded=true"
-  },
-  {
-    "source": "BaFin Aktuelles",
-    "title": "Wer­te­de: Ba­Fin warnt vor An­ge­bo­ten auf der Web­si­te wer­te­de(.)com und wer­te­de(.)cc",
-    "date": "",
-    "sortDate": "2026-03-26T12:16:12.310Z",
-    "summary": "",
-    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_24_wertede.html;jsessionid=E3EFDC7242BF707FBD23983C9B3308C6.internet972?cms_expanded=true"
-  },
-  {
-    "source": "BaFin Aktuelles",
-    "title": "Fest­geld­plan(.)com: Ba­Fin warnt vor Web­si­te und weist auf Iden­ti­täts­miss­brauch hin",
-    "date": "",
-    "sortDate": "2026-03-26T12:16:12.310Z",
-    "summary": "",
-    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_24_festgeldplan_com.html;jsessionid=E3EFDC7242BF707FBD23983C9B3308C6.internet972?cms_expanded=true"
-  },
-  {
-    "source": "BaFin Aktuelles",
     "title": "Schaeff­ler AG: Ba­Fin setzt Geld­bu­ße fest",
+    "date": "",
+    "sortDate": "2026-03-26T16:24:44.395Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Massnahmen/40c_neu_124_WpHG/meldung_2026_03_26_Schaeffler_AG.html?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "Ba­Fin warnt vor der Web­si­te bro­ker­eins(.)com",
+    "date": "",
+    "sortDate": "2026-03-26T16:24:44.395Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_24_brokereins_com.html?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "uk-trd(.)in­vest­ments: Ba­Fin warnt vor der Web­si­te",
+    "date": "",
+    "sortDate": "2026-03-26T16:24:44.395Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_24_uk-trd_investments.html?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "Ba­Fin warnt vor der Web­si­te pan­da-fi­nan­ci­al(.)com",
+    "date": "",
+    "sortDate": "2026-03-26T16:24:44.395Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_19_panda-financial_com.html?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "Ba­Fin warnt vor der Web­si­te green-lmtd(.)com",
+    "date": "",
+    "sortDate": "2026-03-26T16:24:44.394Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_26_green-lmtd_com.html?cms_expanded=true"
+  },
+  {
+    "source": "Howden Re News",
+    "title": "Full Year 2025 (Re)Insurer earnings overview: Transitioning beyond the hard market",
+    "date": "26 March 2026",
+    "sortDate": "2026-03-26T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.howdenre.com/news-insights/howden-re-global-reinsurance-earnings-overview-full-year-2025"
+  },
+  {
+    "source": "AXA XL Press Releases",
+    "title": "New combined form pairs general liability with pollution coverage for AXA XL middle market clients",
+    "date": "March 26, 2026",
+    "sortDate": "2026-03-26T12:00:00.000Z",
+    "summary": "AXA XL’s middle market clients who need pollution insurance in addition to their general liability coverage can now have both in one convenient package.\nThe Environmental Combined Form enhances AXA...",
+    "link": "https://axaxl.com/press-releases/new-combined-form-pairs-general-liability-with-pollution-coverage-for-axa-xl-middle-market-clients"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "Deut­sche Kran­ken­vor­sor­ge GmbH und Deut­sche Kran­ken­un­ter­stüt­zungs­kas­se e.V.: Ba­Fin ord­net Ein­stel­lung des un­er­laub­ten Ver­si­che­rungs­ge­schäfts an",
     "date": "26.03.2026",
     "sortDate": "2026-03-26T12:00:00.000Z",
     "summary": "",
-    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Massnahmen/40c_neu_124_WpHG/meldung_2026_03_26_Schaeffler_AG.html;jsessionid=E3EFDC7242BF707FBD23983C9B3308C6.internet972?cms_expanded=true"
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_26_krankenvorsorge_krankenunterstuetzungskasse.html?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "Fo­ris Ca­pi­tal: Ba­Fin warnt vor Web­si­tes",
+    "date": "26.03.2026",
+    "sortDate": "2026-03-26T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_26_foris_capital.html?cms_expanded=true"
+  },
+  {
+    "source": "FCA News",
+    "title": "FCA responds to Complaint Commissioner’s report on the British Steel Pension Scheme",
+    "date": "26/03/2026",
+    "sortDate": "2026-03-26T00:00:00.000Z",
+    "summary": "",
+    "link": "https://www.fca.org.uk/news/statements/fca-responds-complaint-commissioners-report-british-steel-pension-scheme"
   },
   {
     "source": "FCA News",
@@ -145,19 +177,27 @@
   },
   {
     "source": "BaFin Aktuelles",
-    "title": "Ba­Fin warnt vor der Web­si­te bro­ker­eins(.)com",
+    "title": "Ren­vio(.)icu und ren­vio(.)pro: Ba­Fin warnt vor Web­si­tes",
     "date": "24.03.2026",
     "sortDate": "2026-03-24T12:00:00.000Z",
     "summary": "",
-    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_24_brokereins_com.html;jsessionid=E3EFDC7242BF707FBD23983C9B3308C6.internet972?cms_expanded=true"
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_24_renvio.html?cms_expanded=true"
   },
   {
     "source": "BaFin Aktuelles",
-    "title": "uk-trd(.)in­vest­ments: Ba­Fin warnt vor der Web­si­te",
+    "title": "Wer­te­de: Ba­Fin warnt vor An­ge­bo­ten auf der Web­si­te wer­te­de(.)com und wer­te­de(.)cc",
     "date": "24.03.2026",
     "sortDate": "2026-03-24T12:00:00.000Z",
     "summary": "",
-    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_24_uk-trd_investments.html;jsessionid=E3EFDC7242BF707FBD23983C9B3308C6.internet972?cms_expanded=true"
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_24_wertede.html?cms_expanded=true"
+  },
+  {
+    "source": "BaFin Aktuelles",
+    "title": "Fest­geld­plan(.)com: Ba­Fin warnt vor Web­si­te und weist auf Iden­ti­täts­miss­brauch hin",
+    "date": "24.03.2026",
+    "sortDate": "2026-03-24T12:00:00.000Z",
+    "summary": "",
+    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_24_festgeldplan_com.html?cms_expanded=true"
   },
   {
     "source": "FCA News",
@@ -176,14 +216,6 @@
     "link": "https://news.chubb.com/2026-03-23-Chubb-Announces-Leadership-Appointments-in-Overseas-General-Commercial-Insurance"
   },
   {
-    "source": "BaFin Aktuelles",
-    "title": "Ba­Fin warnt vor der Web­si­te pan­da-fi­nan­ci­al(.)com",
-    "date": "23.03.2026",
-    "sortDate": "2026-03-23T12:00:00.000Z",
-    "summary": "",
-    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Verbrauchermitteilung/unerlaubte/2026/meldung_2026_03_19_panda-financial_com.html;jsessionid=E3EFDC7242BF707FBD23983C9B3308C6.internet972?cms_expanded=true"
-  },
-  {
     "source": "SCOR Press & News",
     "title": "Availability of Preparatory Documents",
     "date": "March 20, 2026 — 18:00",
@@ -198,14 +230,6 @@
     "sortDate": "2026-03-20T12:00:00.000Z",
     "summary": "",
     "link": "https://news.chubb.com/2026-03-20-Chubb-Details-Structure-of-the-Gulf-Maritime-Insurance-Facility-with-DFC"
-  },
-  {
-    "source": "BaFin Aktuelles",
-    "title": "EuGH-Ur­teil (Rs. C-864/24): Ba­Fin be­rück­sich­tigt Ur­teil bei der Aus­le­gung von § 34 WpHG; kei­ne Än­de­rung bei der Aus­le­gung von § 30 WpÜG",
-    "date": "20.03.2026",
-    "sortDate": "2026-03-20T12:00:00.000Z",
-    "summary": "",
-    "link": "https://www.bafin.de/SharedDocs/Veroeffentlichungen/DE/Meldung/2026/meldung_2026_03_20_aufsichtsmitteilung_auswirkungen_eugh_auf_34wphg_30wpueg.html;jsessionid=E3EFDC7242BF707FBD23983C9B3308C6.internet972?cms_expanded=true"
   },
   {
     "source": "FCA News",
@@ -302,14 +326,6 @@
     "sortDate": "2026-03-16T12:00:00.000Z",
     "summary": "",
     "link": "https://www.insuranceeurope.eu/news/3526/let-s-talk-insurance-conversation-cards-launched-during-global-money-week"
-  },
-  {
-    "source": "FCA News",
-    "title": "Creating a redress system that works better for consumers and firms",
-    "date": "16/03/2026",
-    "sortDate": "2026-03-16T00:00:00.000Z",
-    "summary": "",
-    "link": "https://www.fca.org.uk/news/blogs/creating-redress-system-works-better-consumers-firms"
   },
   {
     "source": "ABI News",
@@ -560,14 +576,6 @@
     "link": "https://axaxl.com/press-releases/axa-xl-and-us-marine-insurance-group-team-up-to-distribute-shippers-interest-insurance"
   },
   {
-    "source": "Howden Re News",
-    "title": "Howden Re’s Climate Overview in Brazil and South America: Climate variability sharpens as Brazil enters 2026",
-    "date": "11 February 2026",
-    "sortDate": "2026-02-11T12:00:00.000Z",
-    "summary": "",
-    "link": "https://www.howdenre.com/news-insights/howden-res-climate-overview-brazil-and-south-america-climate-variability-sharpens-brazil-enters"
-  },
-  {
     "source": "Gallagher Re News & Insights",
     "title": "What Does Europe’s New Carbon Border Tax Mean for Renewables Insurers?",
     "date": "11 February 2026",
@@ -598,14 +606,6 @@
     "sortDate": "2026-02-09T12:00:00.000Z",
     "summary": "AXA XL today announced it has become a member of the Nuclear Energy Maritime Organization (NEMO). Launched in 2024 and bringing together the maritime and nuclear industries, NEMO is committed to advancing...",
     "link": "https://axaxl.com/press-releases/axa-xl-joins-the-nuclear-energy-maritime-organization"
-  },
-  {
-    "source": "AXA XL Press Releases",
-    "title": "The 2026 AXA Art Prize US is Open for Submissions",
-    "date": "February 5, 2026",
-    "sortDate": "2026-02-05T12:00:00.000Z",
-    "summary": "AXA XL is excited to announce the launch of the ninth edition of the AXA Art Prize in the United States, a leading platform dedicated to emerging figurative artists. This prestigious competition invites...",
-    "link": "https://axaxl.com/press-releases/the-2026-axa-art-prize-us-is-open-for-submissions"
   },
   {
     "source": "Geneva Association News",
