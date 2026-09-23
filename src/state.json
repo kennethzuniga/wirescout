@@ -17,73 +17,9 @@
   },
   {
     "source": "MAPFRE Press Releases",
-    "title": "Mapfre reclaims its position as the largest insurance company in Latin America",
-    "date": "",
-    "sortDate": "2026-09-23T04:06:10.392Z",
-    "summary": "Mapfre is the leading insurance company in Latin America by premium volume, after growing by just over 1% to $11.044…",
-    "link": "https://www.mapfre.com/en/communicate/corporate-communicate/mapfre-largest-insurance-company-latin-america/"
-  },
-  {
-    "source": "MAPFRE Press Releases",
-    "title": "Mapfre Re appoints new director for its Brussels office",
-    "date": "",
-    "sortDate": "2026-09-23T04:06:10.392Z",
-    "summary": "Mapfre Re has appointed Benoit Goureau as the new director of its Brussels Management Center, a position he will hold…",
-    "link": "https://www.mapfre.com/en/communicate/corporate-communicate/mapfre-re-news-director-brussels-office/"
-  },
-  {
-    "source": "MAPFRE Press Releases",
-    "title": "Mapfre Re climbs to 12th place among the world’s largest reinsurers",
-    "date": "",
-    "sortDate": "2026-09-23T04:06:10.392Z",
-    "summary": "Mapfre Re has risen to 12th place among the world’s largest reinsurers, as per the 2026 edition of the international…",
-    "link": "https://www.mapfre.com/en/communicate/corporate-communicate/mapfre-re-worlds-largest-reinsurers/"
-  },
-  {
-    "source": "MAPFRE Press Releases",
-    "title": "Mapfre’s solvency ratio increases to 208.8% at the end of the first half of 2026",
-    "date": "",
-    "sortDate": "2026-09-23T04:06:10.392Z",
-    "summary": "",
-    "link": "https://www.mapfre.com/en/communicate/corporate-communicate/solvency-ratio-end-first-half-2026/"
-  },
-  {
-    "source": "MAPFRE Press Releases",
-    "title": "Mapfre strengthens its commitment to innovation and digital business development by acquiring stake in Tuio",
-    "date": "",
-    "sortDate": "2026-09-23T04:06:10.392Z",
-    "summary": "Mapfre has reached an agreement to take a stake in Tuio, the specialist digital insurance distributor that leverages advanced technological…",
-    "link": "https://www.mapfre.com/en/communicate/corporate-communicate/innovation-digital-business-development-tuio/"
-  },
-  {
-    "source": "MAPFRE Press Releases",
-    "title": "Mapfre announces an agreement to acquire Safety for $1.54bn, expanding its leadership across the US Northeast",
-    "date": "",
-    "sortDate": "2026-09-23T04:06:10.392Z",
-    "summary": "The acquisition, which has been unanimously approved by the boards of directors of both companies is expected to close in…",
-    "link": "https://www.mapfre.com/en/communicate/corporate-communicate/agreement-acquire-safety-usa/"
-  },
-  {
-    "source": "MAPFRE Press Releases",
-    "title": "Mapfre Economics forecasts that the economy will grow 3% in 2026 and 3.1% in 2027",
-    "date": "",
-    "sortDate": "2026-09-23T04:06:10.392Z",
-    "summary": "Mapfre Economics, Mapfre’s research arm, forecasts global economic growth of 3.0% this year and 3.1% next year, with inflation projected…",
-    "link": "https://www.mapfre.com/en/communicate/corporate-communicate/mapfre-economics-global-forecast-2026/"
-  },
-  {
-    "source": "MAPFRE Press Releases",
-    "title": "Mapfre earns €624 million to June, 9.4% higher than the previous year",
-    "date": "",
-    "sortDate": "2026-09-23T04:06:10.392Z",
-    "summary": "“The first six months of the year confirm the Group’s excellent performance. The diversified business model allows us, with the…",
-    "link": "https://www.mapfre.com/en/communicate/corporate-communicate/presentation-6m-2026-results/"
-  },
-  {
-    "source": "MAPFRE Press Releases",
     "title": "Special Presentation of 6M 2026 Results",
     "date": "",
-    "sortDate": "2026-09-23T04:06:10.392Z",
+    "sortDate": "2026-09-23T08:06:47.992Z",
     "summary": "",
     "link": "https://www.mapfre.com/en/communicate/corporate-communicate/special-presentation-6m-2026-results/"
   },
@@ -91,17 +27,89 @@
     "source": "MAPFRE Press Releases",
     "title": "S&P Global Ratings upgrades the credit rating of the Mapfre Group and highlights the strength of its capital and its revenue",
     "date": "",
-    "sortDate": "2026-09-23T04:06:10.392Z",
+    "sortDate": "2026-09-23T08:06:47.992Z",
     "summary": "This improvement in the rating results in two actions by S&P. On one hand, the rating of Mapfre S.A., the…",
     "link": "https://www.mapfre.com/en/communicate/corporate-communicate/ratings-credit-capital-revenue/"
+  },
+  {
+    "source": "MAPFRE Press Releases",
+    "title": "Mapfre Re appoints new director for its Brussels office",
+    "date": "",
+    "sortDate": "2026-09-23T08:06:47.991Z",
+    "summary": "Mapfre Re has appointed Benoit Goureau as the new director of its Brussels Management Center, a position he will hold…",
+    "link": "https://www.mapfre.com/en/communicate/corporate-communicate/mapfre-re-news-director-brussels-office/"
+  },
+  {
+    "source": "MAPFRE Press Releases",
+    "title": "Mapfre Re climbs to 12th place among the world’s largest reinsurers",
+    "date": "",
+    "sortDate": "2026-09-23T08:06:47.991Z",
+    "summary": "Mapfre Re has risen to 12th place among the world’s largest reinsurers, as per the 2026 edition of the international…",
+    "link": "https://www.mapfre.com/en/communicate/corporate-communicate/mapfre-re-worlds-largest-reinsurers/"
+  },
+  {
+    "source": "MAPFRE Press Releases",
+    "title": "Mapfre’s solvency ratio increases to 208.8% at the end of the first half of 2026",
+    "date": "",
+    "sortDate": "2026-09-23T08:06:47.991Z",
+    "summary": "",
+    "link": "https://www.mapfre.com/en/communicate/corporate-communicate/solvency-ratio-end-first-half-2026/"
+  },
+  {
+    "source": "MAPFRE Press Releases",
+    "title": "Mapfre strengthens its commitment to innovation and digital business development by acquiring stake in Tuio",
+    "date": "",
+    "sortDate": "2026-09-23T08:06:47.991Z",
+    "summary": "Mapfre has reached an agreement to take a stake in Tuio, the specialist digital insurance distributor that leverages advanced technological…",
+    "link": "https://www.mapfre.com/en/communicate/corporate-communicate/innovation-digital-business-development-tuio/"
+  },
+  {
+    "source": "MAPFRE Press Releases",
+    "title": "Mapfre announces an agreement to acquire Safety for $1.54bn, expanding its leadership across the US Northeast",
+    "date": "",
+    "sortDate": "2026-09-23T08:06:47.991Z",
+    "summary": "The acquisition, which has been unanimously approved by the boards of directors of both companies is expected to close in…",
+    "link": "https://www.mapfre.com/en/communicate/corporate-communicate/agreement-acquire-safety-usa/"
+  },
+  {
+    "source": "MAPFRE Press Releases",
+    "title": "Mapfre Economics forecasts that the economy will grow 3% in 2026 and 3.1% in 2027",
+    "date": "",
+    "sortDate": "2026-09-23T08:06:47.991Z",
+    "summary": "Mapfre Economics, Mapfre’s research arm, forecasts global economic growth of 3.0% this year and 3.1% next year, with inflation projected…",
+    "link": "https://www.mapfre.com/en/communicate/corporate-communicate/mapfre-economics-global-forecast-2026/"
+  },
+  {
+    "source": "MAPFRE Press Releases",
+    "title": "Mapfre earns €624 million to June, 9.4% higher than the previous year",
+    "date": "",
+    "sortDate": "2026-09-23T08:06:47.991Z",
+    "summary": "“The first six months of the year confirm the Group’s excellent performance. The diversified business model allows us, with the…",
+    "link": "https://www.mapfre.com/en/communicate/corporate-communicate/presentation-6m-2026-results/"
+  },
+  {
+    "source": "MAPFRE Press Releases",
+    "title": "Mapfre reclaims its position as the largest insurance company in Latin America",
+    "date": "",
+    "sortDate": "2026-09-23T08:06:47.990Z",
+    "summary": "Mapfre is the leading insurance company in Latin America by premium volume, after growing by just over 1% to $11.044…",
+    "link": "https://www.mapfre.com/en/communicate/corporate-communicate/mapfre-largest-insurance-company-latin-america/"
   },
   {
     "source": "SCOR Press & News",
     "title": "Supporting the Energy Transition through Battery Energy Storage Systems",
     "date": "",
-    "sortDate": "2026-09-23T04:06:08.722Z",
+    "sortDate": "2026-09-23T08:06:47.847Z",
     "summary": "",
     "link": "https://www.scor.com/en/news/supporting-energy-transition-through-battery-energy-storage-systems"
+  },
+  {
+    "source": "FCA News",
+    "title": "Firms crack down on money mules but need to do more",
+    "date": "23/09/2026",
+    "sortDate": "2026-09-23T00:00:00.000Z",
+    "summary": "",
+    "link": "https://www.fca.org.uk/news/press-releases/firms-crack-down-money-mules-need-do-more"
   },
   {
     "source": "Howden Re News",
@@ -302,14 +310,6 @@
     "sortDate": "2026-09-16T00:00:00.000Z",
     "summary": "",
     "link": "https://www.fca.org.uk/news/news-stories/fca-opens-investigation-euro-exchange-securities-uk-ltd"
-  },
-  {
-    "source": "FCA News",
-    "title": "Crypto firms get guidance on how the new regime applies",
-    "date": "16/09/2026",
-    "sortDate": "2026-09-16T00:00:00.000Z",
-    "summary": "",
-    "link": "https://www.fca.org.uk/news/press-releases/crypto-firms-get-guidance-how-new-regime-applies"
   },
   {
     "source": "Howden Re News",
